@@ -1,0 +1,3327 @@
+,cities,lines,oceans
+0,"Phoenix, AZ",False,
+1,"Mesa, AZ",False,
+2,"Chandler, AZ",False,
+3,"Glendale, AZ",False,
+4,"Gilbert, AZ",False,
+5,"Scottsdale, AZ",False,
+6,"Tempe, AZ",False,
+7,"Peoria, AZ",False,
+8,"Surprise, AZ",False,
+9,"Avondale, AZ",False,
+10,"Goodyear, AZ",False,
+11,"Buckeye, AZ",False,
+12,"Sun City, AZ",False,
+13,"El Mirage, AZ",False,
+14,"Sun City West, AZ",False,
+15,"Fountain Hills, AZ",False,
+16,"Paradise Valley, AZ",False,
+17,"Litchfield Park, AZ",False,
+18,"Tolleson, AZ",False,
+19,"Wickenburg, AZ",False,
+20,"Cave Creek, AZ",False,
+21,"New River, AZ",False,
+22,"Carefree, AZ",False,
+23,"Rio Verde, AZ",False,
+24,"Youngtown, AZ",False,
+25,"San Diego, CA",True,2017 Pacific L4150
+26,"Chula Vista, CA",True,2017 Pacific L4150
+27,"Oceanside, CA",True,2017 Pacific L4150
+28,"El Cajon, CA",False,
+29,"Escondido, CA",False,
+30,"Vista, CA",True,2017 Pacific L4150
+31,"Carlsbad, CA",True,2017 Pacific L4150
+32,"La Mesa, CA",False,
+33,"San Marcos, CA",True,2017 Pacific L4150
+34,"Spring Valley, CA",False,
+35,"Encinitas, CA",True,2017 Pacific L4150
+36,"National City, CA",True,2017 Pacific L4150
+37,"Santee, CA",False,
+38,"Poway, CA",False,
+39,"Fallbrook, CA",False,
+40,"Lakeside, CA",False,
+41,"Ramona, CA",False,
+42,"Imperial Beach, CA",True,2017 Pacific L4150
+43,"Lemon Grove, CA",True,2017 Pacific L4150
+44,"Coronado, CA",True,2017 Pacific L4150
+45,"Valley Center, CA",False,
+46,"Bonita, CA",True,2017 Pacific L4150
+47,"Alpine, CA",False,
+48,"Solana Beach, CA",True,2017 Pacific L4150
+49,"Jamul, CA",False,
+50,"Bonsall, CA",False,
+51,"Rancho Santa Fe, CA",True,2017 Pacific L4150
+52,"Julian, CA",False,
+53,"Pauma Valley, CA",False,
+54,"Descanso, CA",False,
+55,"Borrego Springs, CA",False,
+56,"Hidden Meadows, CA",False,
+57,"Santa Ysabel, CA",False,
+58,"Campo, CA",False,
+59,"Tucson, AZ",False,
+60,"Oro Valley, AZ",False,
+61,"Catalina Foothills, AZ",False,
+62,"Sahuarita, AZ",False,
+63,"Green Valley, AZ",False,
+64,"Tanque Verde, AZ",False,
+65,"Marana, AZ",False,
+66,"Flowing Wells, AZ",False,
+67,"Tucson Estates, AZ",False,
+68,"Tortolita, AZ",False,
+69,"South Tucson, AZ",False,
+70,"Catalina, AZ",False,
+71,"Picture Rocks, AZ",False,
+72,"Three Points, AZ",False,
+73,"Amado, AZ",False,
+74,"Ajo, AZ",False,
+75,"Vail, AZ",False,
+76,"Corona de Tucson, AZ",False,
+77,"Littletown, AZ",False,
+78,"Miami, FL",True,1091 Atlantic L4150
+79,"Hialeah, FL",True,1091 Atlantic L4150
+80,"Miami Gardens, FL",True,1001 Atlantic L4150
+81,"Miami Beach, FL",True,1091 Atlantic L4150
+82,"Kendall, FL",True,1091 Atlantic L4150
+83,"Kendale Lakes, FL",True,1091 Atlantic L4150
+84,"Fountainbleau, FL",True,1091 Atlantic L4150
+85,"Tamiami, FL",True,1091 Atlantic L4150
+86,"The Hammocks, FL",True,1091 Atlantic L4150
+87,"North Miami, FL",True,1001 Atlantic L4150
+88,"Homestead, FL",True,1091 Atlantic L4150
+89,"Doral, FL",True,1091 Atlantic L4150
+90,"Coral Gables, FL",True,1091 Atlantic L4150
+91,"Country Club, FL",False,
+92,"Aventura, FL",True,1001 Atlantic L4150
+93,"West Little River, FL",True,1091 Atlantic L4150
+94,"South Miami Heights, FL",True,1091 Atlantic L4150
+95,"Richmond West, FL",True,1091 Atlantic L4150
+96,"Westchester, FL",True,1091 Atlantic L4150
+97,"North Miami Beach, FL",True,1001 Atlantic L4150
+98,"Golden Glades, FL",True,1001 Atlantic L4150
+99,"University Park, FL",False,
+100,"Miami Lakes, FL",False,
+101,"The Crossings, FL",True,1091 Atlantic L4150
+102,"Coral Terrace, FL",True,1091 Atlantic L4150
+103,"Princeton, FL",True,1091 Atlantic L4150
+104,"Hialeah Gardens, FL",False,
+105,"Carol City, FL",True,1001 Atlantic L4150
+106,"Leisure City, FL",True,1091 Atlantic L4150
+107,"Sunset, FL",True,1091 Atlantic L4150
+108,"Three Lakes, FL",True,1091 Atlantic L4150
+109,"Pinecrest, FL",True,1091 Atlantic L4150
+110,"Ojus, FL",True,1001 Atlantic L4150
+111,"Glenvar Heights, FL",True,1091 Atlantic L4150
+112,"Palmetto Estates, FL",True,1091 Atlantic L4150
+113,"Opa-locka, FL",True,1001 Atlantic L4150
+114,"Pinewood, FL",True,1001 Atlantic L4150
+115,"Miami Springs, FL",True,1091 Atlantic L4150
+116,"Olympia Heights, FL",True,1091 Atlantic L4150
+117,"Westwood Lake, FL",True,1091 Atlantic L4150
+118,"Key Biscayne, FL",True,717 Atlantic L4150
+119,"Brownsville, FL",True,4205 Gulf L4150
+120,"Miami Shores, FL",True,1001 Atlantic L4150
+121,"Westview, FL",True,1091 Atlantic L4150
+122,"West Perrine, FL",True,1091 Atlantic L4150
+123,"Country Walk, FL",True,1091 Atlantic L4150
+124,"Gladeview, FL",True,1091 Atlantic L4150
+125,"Sweetwater, FL",True,1091 Atlantic L4150
+126,"Florida City, FL",True,1091 Atlantic L4150
+127,"Goulds, FL",True,1091 Atlantic L4150
+128,"Richmond Heights, FL",True,1091 Atlantic L4150
+129,"South Miami, FL",True,1091 Atlantic L4150
+130,"North Bay Village, FL",True,1001 Atlantic L4150
+131,"Naranja, FL",True,1091 Atlantic L4150
+132,"Surfside, FL",True,1001 Atlantic L4150
+133,"Palm Springs North, FL",False,
+134,"West Miami, FL",True,1091 Atlantic L4150
+135,"Bay Harbor Islands, FL",True,1001 Atlantic L4150
+136,"Biscayne Park, FL",True,1001 Atlantic L4150
+137,"Virginia Gardens, FL",True,1091 Atlantic L4150
+138,"El Portal, FL",True,1001 Atlantic L4150
+139,"Fisher Island, FL",True,1091 Atlantic L4150
+140,"Honolulu, HI",True,1893 Pacific L4150
+141,"Waipahu, HI",True,1893 Pacific L4150
+142,"Ewa Beach, HI",True,1893 Pacific L4150
+143,"Kailua, HI",True,1856 Pacific L4150
+144,"Kaneohe, HI",True,1856 Pacific L4150
+145,"Wahiawa, HI",True,1893 Pacific L4150
+146,"Aiea, HI",True,1863 Pacific L4150
+147,"Waianae, HI",True,1893 Pacific L4150
+148,"Pearl City, HI",True,1893 Pacific L4150
+149,"Waimanalo, HI",True,1857 Pacific L4150
+150,"Waialua, HI",True,1893 Pacific L4150
+151,"Haleiwa, HI",True,1893 Pacific L4150
+152,"Hauula, HI",True,1876 Pacific L4150
+153,"Laie, HI",True,1876 Pacific L4150
+154,"Kahuku, HI",True,1876 Pacific L4150
+155,"Kaaawa, HI",True,1856 Pacific L4150
+156,"Corpus Christi, TX",False,
+157,"Bishop, TX",False,
+158,"Sandia, TX",False,
+159,"Port Aransas, TX",True,4197 Gulf L4150
+160,"Riverside, CA",False,
+161,"Corona, CA",False,
+162,"Moreno Valley, CA",False,
+163,"Hemet, CA",False,
+164,"Temecula, CA",False,
+165,"Murrieta, CA",False,
+166,"Perris, CA",False,
+167,"Indio, CA",False,
+168,"Lake Elsinore, CA",False,
+169,"Cathedral City, CA",False,
+170,"Menifee, CA",False,
+171,"Palm Desert, CA",False,
+172,"Desert Hot Springs, CA",False,
+173,"Palm Springs, CA",False,
+174,"San Jacinto, CA",False,
+175,"Beaumont, CA",False,
+176,"Rubidoux, CA",False,
+177,"Coachella, CA",False,
+178,"La Quinta, CA",False,
+179,"Banning, CA",False,
+180,"Wildomar, CA",False,
+181,"Norco, CA",False,
+182,"Winchester, CA",False,
+183,"Mira Loma, CA",False,
+184,"Blythe, CA",False,
+185,"Rancho Mirage, CA",False,
+186,"Glen Avon, CA",False,
+187,"Pedley, CA",False,
+188,"Canyon Lake, CA",False,
+189,"Calimesa, CA",False,
+190,"Thousand Palms, CA",False,
+191,"Nuevo, CA",False,
+192,"Indian Wells, CA",False,
+193,"Highgrove, CA",False,
+194,"Sunnyslope, CA",False,
+195,"Anza, CA",False,
+196,"Home Gardens, CA",False,
+197,"Aguanga, CA",False,
+198,"Idyllwild, CA",False,
+199,"Bakersfield, CA",False,
+200,"Delano, CA",False,
+201,"Tehachapi, CA",False,
+202,"Ridgecrest, CA",False,
+203,"Wasco, CA",False,
+204,"Oildale, CA",False,
+205,"Rosamond, CA",False,
+206,"Arvin, CA",False,
+207,"Shafter, CA",False,
+208,"Taft, CA",False,
+209,"Lamont, CA",False,
+210,"California City, CA",False,
+211,"Rosedale, CA",False,
+212,"Lake Isabella, CA",False,
+213,"Frazier Park, CA",False,
+214,"Boron, CA",False,
+215,"Wofford Heights, CA",False,
+216,"Inyokern, CA",False,
+217,"Kernville, CA",False,
+218,"Orlando, FL",False,
+219,"Apopka, FL",False,
+220,"Pine Hills, FL",False,
+221,"Winter Park, FL",False,
+222,"Winter Garden, FL",False,
+223,"Meadow Woods, FL",False,
+224,"Ocoee, FL",False,
+225,"Oak Ridge, FL",False,
+226,"Windermere, FL",False,
+227,"Maitland, FL",False,
+228,"Conway, FL",False,
+229,"Lockhart, FL",False,
+230,"Hunters Creek, FL",False,
+231,"Doctor Phillips, FL",False,
+232,"Orlovista, FL",False,
+233,"Fairview Shores, FL",False,
+234,"Pine Castle, FL",False,
+235,"Belle Isle, FL",False,
+236,"Williamsburg, FL",False,
+237,"Wedgefield, FL",False,
+238,"Sky Lake, FL",False,
+239,"Bithlo, FL",False,
+240,"Christmas, FL",False,
+241,"Holden Heights, FL",False,
+242,"Bay Hill, FL",False,
+243,"Eatonville, FL",False,
+244,"Southchase, FL",False,
+245,"Edgewood, FL",False,
+246,"Oakland, FL",False,
+247,"Taft, FL",False,
+248,"Gotha, FL",False,
+249,"Zellwood, FL",False,
+250,"Tangelo Park, FL",False,
+251,"Saint Petersburg, FL",True,4193 Gulf L4150
+252,"Clearwater, FL",True,4255 Gulf L4150
+253,"Largo, FL",True,4255 Gulf L4150
+254,"Palm Harbor, FL",True,4261 Gulf L4150
+255,"Seminole, FL",True,4216 Gulf L4150
+256,"Pinellas Park, FL",True,4255 Gulf L4150
+257,"Tarpon Springs, FL",True,4261 Gulf L4150
+258,"Dunedin, FL",True,4255 Gulf L4150
+259,"Oldsmar, FL",True,4255 Gulf L4150
+260,"West and East Lealman, FL",True,4255 Gulf L4150
+261,"Gulfport, FL",True,4193 Gulf L4150
+262,"Saint Pete Beach, FL",True,4193 Gulf L4150
+263,"Safety Harbor, FL",True,4255 Gulf L4150
+264,"Treasure Island, FL",True,4193 Gulf L4150
+265,"South Pasadena, FL",True,4193 Gulf L4150
+266,"Madeira Beach, FL",True,4260 Gulf L4150
+267,"Belleair, FL",True,4255 Gulf L4150
+268,"Indian Rocks Beach, FL",True,4216 Gulf L4150
+269,"South Highpoint, FL",True,4255 Gulf L4150
+270,"Kenneth City, FL",True,4260 Gulf L4150
+271,"Harbor Bluffs, FL",True,4216 Gulf L4150
+272,"Bay Pines, FL",True,4260 Gulf L4150
+273,"Feather Sound, FL",True,4255 Gulf L4150
+274,"Redington Shores, FL",True,4216 Gulf L4150
+275,"Tierra Verde, FL",True,4193 Gulf L4150
+276,"Belleair Bluffs, FL",True,4216 Gulf L4150
+277,"Indian Shores, FL",True,4216 Gulf L4150
+278,"Belleair Beach, FL",True,4216 Gulf L4150
+279,"Ridgecrest, FL",True,4216 Gulf L4150
+280,"North Redington Beach, FL",True,4216 Gulf L4150
+281,"Redington Beach, FL",True,4216 Gulf L4150
+282,"Pensacola, FL",True,4205 Gulf L4150
+283,"Cantonment, FL",False,
+284,"Century, FL",False,
+285,"Molino, FL",False,
+286,"San Bernardino, CA",False,
+287,"Fontana, CA",False,
+288,"Ontario, CA",False,
+289,"Rancho Cucamonga, CA",False,
+290,"Victorville, CA",False,
+291,"Hesperia, CA",False,
+292,"Rialto, CA",False,
+293,"Chino, CA",False,
+294,"Upland, CA",False,
+295,"Redlands, CA",False,
+296,"Apple Valley, CA",False,
+297,"Chino Hills, CA",False,
+298,"Colton, CA",False,
+299,"Yucaipa, CA",False,
+300,"Highland, CA",False,
+301,"Montclair, CA",False,
+302,"Barstow, CA",False,
+303,"Yucca Valley, CA",False,
+304,"Loma Linda, CA",False,
+305,"Bloomington, CA",False,
+306,"Phelan, CA",False,
+307,"Twentynine Palms, CA",False,
+308,"Grand Terrace, CA",False,
+309,"Big Bear City, CA",False,
+310,"Joshua Tree, CA",False,
+311,"Mentone, CA",False,
+312,"Lucerne Valley, CA",False,
+313,"Crestline, CA",False,
+314,"Morongo Valley, CA",False,
+315,"Lake Arrowhead, CA",False,
+316,"Big Bear Lake, CA",False,
+317,"Landers, CA",False,
+318,"Wrightwood, CA",False,
+319,"Running Springs, CA",False,
+320,"Cedar Glen, CA",False,
+321,"Green Valley Lake, CA",False,
+322,"Sugarloaf, CA",False,
+323,"Fawnskin, CA",False,
+324,"Twin Peaks, CA",False,
+325,"Fort Myers, FL",False,
+326,"Cape Coral, FL",True,4147 Gulf L4150
+327,"Lehigh Acres, FL",False,
+328,"Bonita Springs, FL",True,4148 Gulf L4150
+329,"North Fort Myers, FL",False,
+330,"Estero, FL",True,4148 Gulf L4150
+331,"Fort Myers Beach, FL",True,4147 Gulf L4150
+332,"Sanibel, FL",True,4147 Gulf L4150
+333,"Alva, FL",False,
+334,"Saint James City, FL",True,4147 Gulf L4150
+335,"Bokeelia, FL",True,4370 Gulf L4150
+336,"Boca Grande, FL",True,4370 Gulf L4150
+337,"Captiva, FL",True,4147 Gulf L4150
+338,"Boca Raton, FL",True,162 Atlantic L4150
+339,"Boynton Beach, FL",True,162 Atlantic L4150
+340,"West Palm Beach, FL",True,162 Atlantic L4150
+341,"Jupiter, FL",True,162 Atlantic L4150
+342,"Delray Beach, FL",True,162 Atlantic L4150
+343,"Wellington, FL",False,
+344,"Palm Beach Gardens, FL",True,162 Atlantic L4150
+345,"Lake Worth, FL",True,162 Atlantic L4150
+346,"Riviera Beach, FL",True,162 Atlantic L4150
+347,"Royal Palm Beach, FL",False,
+348,"Palm Springs, FL",True,162 Atlantic L4150
+349,"Lake Worth Corridor, FL",True,162 Atlantic L4150
+350,"North Palm Beach, FL",True,162 Atlantic L4150
+351,"Lantana, FL",True,162 Atlantic L4150
+352,"Lake Park, FL",True,162 Atlantic L4150
+353,"Palm Beach, FL",True,162 Atlantic L4150
+354,"Pahokee, FL",False,
+355,"Century Village, FL",True,162 Atlantic L4150
+356,"Golden Lakes, FL",True,162 Atlantic L4150
+357,"Highland Beach, FL",True,162 Atlantic L4150
+358,"Juno Beach, FL",True,162 Atlantic L4150
+359,"Lake Belvedere Estates, FL",True,162 Atlantic L4150
+360,"Tequesta, FL",True,162 Atlantic L4150
+361,"Atlantis, FL",True,162 Atlantic L4150
+362,"Hypoluxo, FL",True,162 Atlantic L4150
+363,"Lake Clarke Shores, FL",True,162 Atlantic L4150
+364,"Ocean Ridge, FL",True,162 Atlantic L4150
+365,"Lakeside Green, FL",True,162 Atlantic L4150
+366,"Mangonia Park, FL",True,162 Atlantic L4150
+367,"Palm Beach Shores, FL",True,162 Atlantic L4150
+368,"Gulf Stream, FL",True,162 Atlantic L4150
+369,"Cypress Lakes, FL",True,162 Atlantic L4150
+370,"Haverhill, FL",True,162 Atlantic L4150
+371,"South Palm Beach, FL",True,162 Atlantic L4150
+372,"Oxnard, CA",True,1992 Pacific L4150
+373,"Simi Valley, CA",False,
+374,"Ventura, CA",True,1992 Pacific L4150
+375,"Thousand Oaks, CA",True,2027 Pacific L4150
+376,"Camarillo, CA",True,1992 Pacific L4150
+377,"Santa Paula, CA",False,
+378,"Moorpark, CA",False,
+379,"Ojai, CA",False,
+380,"Port Hueneme, CA",True,1992 Pacific L4150
+381,"Westlake Village, CA",True,2027 Pacific L4150
+382,"Fillmore, CA",False,
+383,"Oak Park, CA",False,
+384,"Oak View, CA",True,3109 Pacific L4150
+385,"Somis, CA",False,
+386,"Maricopa, CA",False,
+387,"Bradenton, FL",True,4237 Gulf L4150
+388,"Palmetto, FL",True,4255 Gulf L4150
+389,"Parrish, FL",True,4255 Gulf L4150
+390,"Ellenton, FL",True,4255 Gulf L4150
+391,"Myakka City, FL",False,
+392,"Holmes Beach, FL",True,4127 Gulf L4150
+393,"Whitfield, FL",True,4127 Gulf L4150
+394,"Bradenton Beach, FL",True,4127 Gulf L4150
+395,"Anna Maria, FL",True,4193 Gulf L4150
+396,"Cortez, FL",True,4127 Gulf L4150
+397,"Santa Rosa, CA",False,
+398,"Petaluma, CA",False,
+399,"Sonoma, CA",False,
+400,"Rohnert Park, CA",False,
+401,"Sebastopol, CA",False,
+402,"Windsor, CA",False,
+403,"Healdsburg, CA",False,
+404,"Cotati, CA",False,
+405,"Cloverdale, CA",False,
+406,"Guerneville, CA",True,1991 Pacific L4150
+407,"Glen Ellen, CA",False,
+408,"Forestville, CA",False,
+409,"Penngrove, CA",False,
+410,"Occidental, CA",True,1990 Pacific L4150
+411,"Kenwood, CA",False,
+412,"Monte Rio, CA",True,1991 Pacific L4150
+413,"Geyserville, CA",False,
+414,"Cazadero, CA",True,1991 Pacific L4150
+415,"Bodega Bay, CA",True,1990 Pacific L4150
+416,"Annapolis, CA",True,2882 Pacific L4150
+417,"Reno, NV",False,
+418,"Sparks, NV",False,
+419,"Sun Valley, NV",False,
+420,"Incline Village, NV",False,
+421,"Cold Springs, NV",False,
+422,"Ocala, FL",False,
+423,"Dunnellon, FL",False,
+424,"Summerfield, FL",False,
+425,"Belleview, FL",False,
+426,"Weirsdale, FL",False,
+427,"Silver Springs, FL",False,
+428,"Ocklawaha, FL",False,
+429,"Anthony, FL",False,
+430,"Salinas, CA",True,2015 Pacific L4150
+431,"Monterey, CA",True,3223 Pacific L4150
+432,"Seaside, CA",True,3223 Pacific L4150
+433,"Soledad, CA",False,
+434,"Marina, CA",True,2015 Pacific L4150
+435,"Greenfield, CA",False,
+436,"Pacific Grove, CA",True,3223 Pacific L4150
+437,"Del Monte Forest, CA",True,3223 Pacific L4150
+438,"Carmel Valley, CA",False,
+439,"Gonzales, CA",False,
+440,"Aromas, CA",True,2015 Pacific L4150
+441,"Del Rey Oaks, CA",True,3223 Pacific L4150
+442,"Fort Collins, CO",False,
+443,"Loveland, CO",False,
+444,"Berthoud, CO",False,
+445,"Estes Park, CO",False,
+446,"Wellington, CO",False,
+447,"Bellvue, CO",False,
+448,"Laporte, CO",False,
+449,"Livermore, CO",False,
+450,"Drake, CO",False,
+451,"Red Feather Lakes, CO",False,
+452,"Fort Lauderdale, FL",True,1001 Atlantic L4150
+453,"Pembroke Pines, FL",True,1001 Atlantic L4150
+454,"Hollywood, FL",True,1001 Atlantic L4150
+455,"Miramar, FL",True,1001 Atlantic L4150
+456,"Coral Springs, FL",False,
+457,"Pompano Beach, FL",True,162 Atlantic L4150
+458,"Davie, FL",True,1001 Atlantic L4150
+459,"Plantation, FL",True,1001 Atlantic L4150
+460,"Sunrise, FL",True,1001 Atlantic L4150
+461,"Lauderhill, FL",True,1001 Atlantic L4150
+462,"Weston, FL",False,
+463,"Tamarac, FL",True,1001 Atlantic L4150
+464,"Deerfield Beach, FL",True,162 Atlantic L4150
+465,"Margate, FL",True,162 Atlantic L4150
+466,"Coconut Creek, FL",True,162 Atlantic L4150
+467,"Oakland Park, FL",True,1001 Atlantic L4150
+468,"North Lauderdale, FL",True,1001 Atlantic L4150
+469,"Lauderdale Lakes, FL",True,1001 Atlantic L4150
+470,"Cooper City, FL",False,
+471,"Dania Beach, FL",True,1001 Atlantic L4150
+472,"West Park, FL",False,
+473,"Parkland, FL",False,
+474,"Southwest Ranches, FL",False,
+475,"Wilton Manors, FL",True,1001 Atlantic L4150
+476,"Lighthouse Point, FL",True,162 Atlantic L4150
+477,"Broadview Park, FL",True,1001 Atlantic L4150
+478,"Lauderdale-by-the-Sea, FL",True,162 Atlantic L4150
+479,"Washington Park, FL",True,1001 Atlantic L4150
+480,"Hillsboro Beach, FL",True,162 Atlantic L4150
+481,"Yuma, AZ",False,
+482,"Somerton, AZ",False,
+483,"San Luis, AZ",False,
+484,"Wellton, AZ",False,
+485,"Visalia, CA",False,
+486,"Porterville, CA",False,
+487,"Tulare, CA",False,
+488,"Dinuba, CA",False,
+489,"Lindsay, CA",False,
+490,"Exeter, CA",False,
+491,"Orosi, CA",False,
+492,"Woodlake, CA",False,
+493,"Farmersville, CA",False,
+494,"Strathmore, CA",False,
+495,"Terra Bella, CA",False,
+496,"Pixley, CA",False,
+497,"Earlimart, CA",False,
+498,"Ivanhoe, CA",False,
+499,"Tipton, CA",False,
+500,"Springville, CA",False,
+501,"Three Rivers, CA",False,
+502,"Charleston, SC",True,1055 Atlantic L4150
+503,"North Charleston, SC",True,1055 Atlantic L4150
+504,"Mount Pleasant, SC",True,1055 Atlantic L4150
+505,"Isle of Palms, SC",True,1055 Atlantic L4150
+506,"Hollywood, SC",False,
+507,"Ravenel, SC",False,
+508,"Awendaw, SC",True,190 Atlantic L4150
+509,"Kiawah Island, SC",True,1055 Atlantic L4150
+510,"Sullivans Island, SC",True,1055 Atlantic L4150
+511,"Seabrook Island, SC",True,1055 Atlantic L4150
+512,"Folly Beach, SC",True,1055 Atlantic L4150
+513,"Meggett, SC",False,
+514,"Wadmalaw Island, SC",True,1055 Atlantic L4150
+515,"Bridgeport, CT",True,1058 Atlantic L4150
+516,"Stamford, CT",True,1087 Atlantic L4150
+517,"Norwalk, CT",True,1018 Atlantic L4150
+518,"Danbury, CT",False,
+519,"Greenwich, CT",True,921 Atlantic L4150
+520,"Fairfield, CT",True,1058 Atlantic L4150
+521,"Stratford, CT",True,1058 Atlantic L4150
+522,"Shelton, CT",True,1058 Atlantic L4150
+523,"Trumbull, CT",True,1058 Atlantic L4150
+524,"Westport, CT",True,1018 Atlantic L4150
+525,"New Canaan, CT",True,1018 Atlantic L4150
+526,"Monroe, CT",False,
+527,"Darien, CT",True,1087 Atlantic L4150
+528,"Wilton, CT",True,1018 Atlantic L4150
+529,"Brookfield, CT",False,
+530,"New Fairfield, CT",False,
+531,"Weston, CT",True,1018 Atlantic L4150
+532,"Sandy Hook, CT",False,
+533,"Easton, CT",True,1018 Atlantic L4150
+534,"Redding, CT",False,
+535,"Sherman, CT",False,
+536,"Eugene, OR",False,
+537,"Springfield, OR",False,
+538,"Cottage Grove, OR",False,
+539,"Junction City, OR",False,
+540,"Creswell, OR",False,
+541,"Florence, OR",True,3392 Pacific L4150
+542,"Veneta, OR",False,
+543,"Oakridge, OR",False,
+544,"Santa Maria, CA",False,
+545,"Santa Barbara, CA",True,2031 Pacific L4150
+546,"Lompoc, CA",True,2457 Pacific L4150
+547,"Goleta, CA",True,2031 Pacific L4150
+548,"Carpinteria, CA",True,3109 Pacific L4150
+549,"Solvang, CA",True,2031 Pacific L4150
+550,"Guadalupe, CA",True,2215 Pacific L4150
+551,"Montecito, CA",True,1992 Pacific L4150
+552,"Santa Ynez, CA",False,
+553,"Buellton, CA",True,2031 Pacific L4150
+554,"Mission Canyon, CA",True,2031 Pacific L4150
+555,"Los Alamos, CA",False,
+556,"Cumming, GA",False,
+557,"McAllen, TX",False,
+558,"Mission, TX",False,
+559,"Palmhurst, TX",False,
+560,"Hidalgo, TX",False,
+561,"Midway South, TX",False,
+562,"Bloomington, IN",False,
+563,"Ellettsville, IN",False,
+564,"Queen Creek, AZ",False,
+565,"Casa Grande, AZ",False,
+566,"Apache Junction, AZ",False,
+567,"Florence, AZ",False,
+568,"Eloy, AZ",False,
+569,"Coolidge, AZ",False,
+570,"San Manuel, AZ",False,
+571,"Superior, AZ",False,
+572,"Oracle, AZ",False,
+573,"Kearny, AZ",False,
+574,"Santa Fe, NM",False,
+575,"Edgewood, NM",False,
+576,"Lamy, NM",False,
+577,"Conroe, TX",False,
+578,"The Woodlands, TX",False,
+579,"Montgomery, TX",False,
+580,"Porter, TX",False,
+581,"Shenandoah, TX",False,
+582,"Oak Ridge North, TX",False,
+583,"Pinehurst, TX",False,
+584,"Pinehurst, TX",False,
+585,"Pinehurst, TX",False,
+586,"Pinehurst, TX",False,
+587,"Woodbranch, TX",False,
+588,"Panorama Village, TX",False,
+589,"Roman Forest, TX",False,
+590,"Chateau Woods, TX",False,
+591,"New Port Richey, FL",True,4195 Gulf L4150
+592,"Wesley Chapel, FL",False,
+593,"Port Richey, FL",True,4216 Gulf L4150
+594,"Hudson, FL",True,4126 Gulf L4150
+595,"Holiday, FL",True,4261 Gulf L4150
+596,"Zephyrhills, FL",False,
+597,"Shady Hills, FL",True,4126 Gulf L4150
+598,"Dade City, FL",False,
+599,"San Antonio, FL",False,
+600,"Chico, CA",False,
+601,"Oroville, CA",False,
+602,"Paradise, CA",False,
+603,"Magalia, CA",False,
+604,"Durham, CA",False,
+605,"Forest Ranch, CA",False,
+606,"Berry Creek, CA",False,
+607,"Roseville, CA",False,
+608,"Rocklin, CA",False,
+609,"Lincoln, CA",False,
+610,"Auburn, CA",False,
+611,"Granite Bay, CA",False,
+612,"Loomis, CA",False,
+613,"Newcastle, CA",False,
+614,"Meadow Vista, CA",False,
+615,"Colfax, CA",False,
+616,"Kings Beach, CA",False,
+617,"Foresthill, CA",False,
+618,"Tahoe Vista, CA",False,
+619,"Applegate, CA",False,
+620,"Carnelian Bay, CA",False,
+621,"Alta, CA",False,
+622,"Homewood, CA",False,
+623,"Redding, CA",False,
+624,"Anderson, CA",False,
+625,"Shasta Lake, CA",False,
+626,"Burney, CA",False,
+627,"Shingletown, CA",False,
+628,"Palo Cedro, CA",False,
+629,"Bend, OR",False,
+630,"Redmond, OR",False,
+631,"La Pine, OR",False,
+632,"Sisters, OR",False,
+633,"Palm Bay, FL",True,1043 Atlantic L4150
+634,"Melbourne, FL",True,1043 Atlantic L4150
+635,"Cocoa, FL",True,1043 Atlantic L4150
+636,"Titusville, FL",False,
+637,"Merritt Island, FL",True,1043 Atlantic L4150
+638,"Rockledge, FL",True,1043 Atlantic L4150
+639,"West Melbourne, FL",True,1043 Atlantic L4150
+640,"Satellite Beach, FL",True,1043 Atlantic L4150
+641,"Mims, FL",False,
+642,"Cocoa Beach, FL",True,1043 Atlantic L4150
+643,"Melbourne Beach, FL",True,1043 Atlantic L4150
+644,"Cape Canaveral, FL",True,1043 Atlantic L4150
+645,"Indian Harbour Beach, FL",True,1043 Atlantic L4150
+646,"Micco, FL",True,1043 Atlantic L4150
+647,"June Park, FL",True,1043 Atlantic L4150
+648,"Malabar, FL",True,1043 Atlantic L4150
+649,"Indialantic, FL",True,1043 Atlantic L4150
+650,"Wilmington, NC",True,1013 Atlantic L4150
+651,"Myrtle Grove, NC",True,1013 Atlantic L4150
+652,"Silver Lake, NC",True,1013 Atlantic L4150
+653,"Castle Hayne, NC",False,
+654,"Carolina Beach, NC",True,1013 Atlantic L4150
+655,"Masonboro, NC",True,1013 Atlantic L4150
+656,"Sea Breeze, NC",True,1013 Atlantic L4150
+657,"Kure Beach, NC",True,1013 Atlantic L4150
+658,"Wrightsville Beach, NC",True,1013 Atlantic L4150
+659,"Grand Junction, CO",False,
+660,"Clifton, CO",False,
+661,"Fruita, CO",False,
+662,"Palisade, CO",False,
+663,"Whitewater, CO",False,
+664,"Jacksonville, NC",False,
+665,"Richlands, NC",False,
+666,"Hubert, NC",True,979 Atlantic L4150
+667,"Midway Park, NC",False,
+668,"Sneads Ferry, NC",True,979 Atlantic L4150
+669,"Maysville, NC",False,
+670,"Swansboro, NC",True,979 Atlantic L4150
+671,"North Topsail Beach, NC",True,979 Atlantic L4150
+672,"Maple Hill, NC",False,
+673,"Holly Ridge, NC",True,979 Atlantic L4150
+674,"Madera, CA",False,
+675,"Chowchilla, CA",False,
+676,"Coarsegold, CA",False,
+677,"Oakhurst, CA",False,
+678,"North Fork, CA",False,
+679,"Ahwahnee, CA",False,
+680,"Vero Beach, FL",True,987 Atlantic L4150
+681,"Sebastian, FL",True,1043 Atlantic L4150
+682,"Indian River Shores, FL",True,987 Atlantic L4150
+683,"Fellsmere, FL",False,
+684,"Roseland, FL",True,1043 Atlantic L4150
+685,"Spring Hill, FL",False,
+686,"Webster, FL",False,
+687,"Timber Pines, FL",True,4126 Gulf L4150
+688,"Brooksville, FL",False,
+689,"Ridge Manor, FL",False,
+690,"Weeki Wachee Gardens, FL",True,4126 Gulf L4150
+691,"Hernando Beach, FL",True,4126 Gulf L4150
+692,"Hill 'n Dale, FL",False,
+693,"Brockton, MA",False,
+694,"Abington, MA",False,
+695,"Rockland, MA",False,
+696,"Pembroke, MA",True,1078 Atlantic L4150
+697,"Wareham, MA",True,758 Atlantic L4150
+698,"Whitman, MA",False,
+699,"East Bridgewater, MA",False,
+700,"Hanover, MA",True,762 Atlantic L4150
+701,"Norwell, MA",True,642 Atlantic L4150
+702,"Hull, MA",True,763 Atlantic L4150
+703,"Carver, MA",True,1078 Atlantic L4150
+704,"Lakeville, MA",False,
+705,"West Bridgewater, MA",False,
+706,"Halifax, MA",False,
+707,"Mattapoisett, MA",True,759 Atlantic L4150
+708,"Marion, MA",True,759 Atlantic L4150
+709,"Rochester, MA",True,759 Atlantic L4150
+710,"Plympton, MA",True,1078 Atlantic L4150
+711,"West Wareham, MA",True,758 Atlantic L4150
+712,"White Island Shores, MA",True,675 Atlantic L4150
+713,"Lakeland, FL",False,
+714,"Lake Wales, FL",False,
+715,"Auburndale, FL",False,
+716,"Bartow, FL",False,
+717,"Winter Haven, FL",False,
+718,"Mulberry, FL",False,
+719,"Haines City, FL",False,
+720,"Lakeland Highlands, FL",False,
+721,"Frostproof, FL",False,
+722,"Davenport, FL",False,
+723,"Fort Meade, FL",False,
+724,"Medulla, FL",False,
+725,"Combee Settlement, FL",False,
+726,"Inwood, FL",False,
+727,"Jan-Phyl Village, FL",False,
+728,"Wahneta, FL",False,
+729,"Cypress Gardens, FL",False,
+730,"Dundee, FL",False,
+731,"Crystal Lake, FL",True,162 Atlantic L4150
+732,"Lake Alfred, FL",False,
+733,"Gibsonia, FL",False,
+734,"Winston, FL",False,
+735,"Loughman, FL",False,
+736,"Highland City, FL",False,
+737,"Kathleen, FL",False,
+738,"Eagle Lake, FL",False,
+739,"Napa, CA",False,
+740,"American Canyon, CA",False,
+741,"Saint Helena, CA",False,
+742,"Calistoga, CA",False,
+743,"Yountville, CA",False,
+744,"Santa Cruz, CA",True,1993 Pacific L4150
+745,"Watsonville, CA",True,2015 Pacific L4150
+746,"Aptos, CA",True,1993 Pacific L4150
+747,"Scotts Valley, CA",True,1993 Pacific L4150
+748,"Boulder Creek, CA",True,1983 Pacific L4150
+749,"Capitola, CA",True,1993 Pacific L4150
+750,"Soquel, CA",True,1993 Pacific L4150
+751,"Ben Lomond, CA",True,1993 Pacific L4150
+752,"Felton, CA",True,1993 Pacific L4150
+753,"Toms River, NJ",True,1085 Atlantic L4150
+754,"Jackson, NJ",False,
+755,"Lacey, NJ",False,
+756,"Point Pleasant, NJ",True,1085 Atlantic L4150
+757,"Ocean Acres, NJ",True,1085 Atlantic L4150
+758,"Beachwood, NJ",True,1085 Atlantic L4150
+759,"Mystic Islands, NJ",True,1046 Atlantic L4150
+760,"Forked River, NJ",True,1085 Atlantic L4150
+761,"Point Pleasant Beach, NJ",True,1085 Atlantic L4150
+762,"South Toms River, NJ",True,1085 Atlantic L4150
+763,"Tuckerton, NJ",True,1046 Atlantic L4150
+764,"Beach Haven West, NJ",True,1085 Atlantic L4150
+765,"Lakehurst, NJ",False,
+766,"Seaside Heights, NJ",True,1085 Atlantic L4150
+767,"Pine Beach, NJ",True,1085 Atlantic L4150
+768,"Manahawkin, NJ",True,1085 Atlantic L4150
+769,"New Egypt, NJ",False,
+770,"Lavallette, NJ",True,1085 Atlantic L4150
+771,"Island Heights, NJ",True,1085 Atlantic L4150
+772,"Silver Ridge, NJ",True,1085 Atlantic L4150
+773,"Ocean Gate, NJ",True,1085 Atlantic L4150
+774,"Surf City, NJ",True,1085 Atlantic L4150
+775,"Ship Bottom, NJ",True,1085 Atlantic L4150
+776,"Beach Haven, NJ",True,1046 Atlantic L4150
+777,"Ortley Beach, NJ",True,1085 Atlantic L4150
+778,"Holiday Heights, NJ",True,1085 Atlantic L4150
+779,"Bay Head, NJ",True,1085 Atlantic L4150
+780,"Seaside Park, NJ",True,1085 Atlantic L4150
+781,"Harvey Cedars, NJ",True,1085 Atlantic L4150
+782,"Waretown, NJ",True,1085 Atlantic L4150
+783,"Barnegat Light, NJ",True,1085 Atlantic L4150
+784,"Kenosha, WI",True,3668 Great Lakes L4150
+785,"Pleasant Prairie, WI",True,3668 Great Lakes L4150
+786,"Somers, WI",True,3668 Great Lakes L4150
+787,"Salem, WI",False,
+788,"Bristol, WI",False,
+789,"Bristol, WI",False,
+790,"Randall, WI",False,
+791,"Twin Lakes, WI",False,
+792,"Wheatland, WI",False,
+793,"Camp Lake, WI",False,
+794,"Paddock Lake, WI",False,
+795,"Paris, WI",False,
+796,"Brighton, WI",False,
+797,"Powers Lake, WI",False,
+798,"Lake Shangrila, WI",False,
+799,"Silver Lake, WI",False,
+800,"Annapolis, MD",True,1054 Atlantic L4150
+801,"Glen Burnie, MD",True,992 Atlantic L4150
+802,"Pasadena, MD",True,992 Atlantic L4150
+803,"Severn, MD",True,1054 Atlantic L4150
+804,"Odenton, MD",False,
+805,"Severna Park, MD",True,992 Atlantic L4150
+806,"Crofton, MD",False,
+807,"Arnold, MD",True,1054 Atlantic L4150
+808,"Edgewater, MD",True,1054 Atlantic L4150
+809,"Brooklyn Park, MD",True,992 Atlantic L4150
+810,"Linthicum Heights, MD",True,992 Atlantic L4150
+811,"Hanover, MD",False,
+812,"Davidsonville, MD",True,1054 Atlantic L4150
+813,"Crownsville, MD",True,1054 Atlantic L4150
+814,"Gambrills, MD",False,
+815,"Lothian, MD",True,1054 Atlantic L4150
+816,"Churchton, MD",True,1054 Atlantic L4150
+817,"Riva, MD",True,1054 Atlantic L4150
+818,"Shady Side, MD",True,1054 Atlantic L4150
+819,"Harwood, MD",True,1054 Atlantic L4150
+820,"West River, MD",True,1054 Atlantic L4150
+821,"Deale, MD",True,1054 Atlantic L4150
+822,"Tracys Landing, MD",True,1054 Atlantic L4150
+823,"Flagstaff, AZ",False,
+824,"Page, AZ",False,
+825,"Williams, AZ",False,
+826,"Happy Jack, AZ",False,
+827,"Munds Park, AZ",False,
+828,"Lynn, MA",True,763 Atlantic L4150
+829,"Lawrence, MA",False,
+830,"Haverhill, MA",False,
+831,"Peabody, MA",True,854 Atlantic L4150
+832,"Methuen, MA",False,
+833,"Salem, MA",True,854 Atlantic L4150
+834,"Beverly, MA",True,854 Atlantic L4150
+835,"North Andover, MA",False,
+836,"Saugus, MA",True,822 Atlantic L4150
+837,"Danvers, MA",True,854 Atlantic L4150
+838,"Gloucester, MA",True,854 Atlantic L4150
+839,"Newburyport, MA",True,1092 Atlantic L4150
+840,"Marblehead, MA",True,854 Atlantic L4150
+841,"Swampscott, MA",True,854 Atlantic L4150
+842,"Lynnfield, MA",True,822 Atlantic L4150
+843,"Middleton, MA",True,1092 Atlantic L4150
+844,"Georgetown, MA",False,
+845,"Hamilton, MA",True,854 Atlantic L4150
+846,"Groveland, MA",False,
+847,"Merrimac, MA",True,1092 Atlantic L4150
+848,"Rockport, MA",True,831 Atlantic L4150
+849,"Manchester, MA",True,854 Atlantic L4150
+850,"West Newbury, MA",True,1092 Atlantic L4150
+851,"Wenham, MA",True,854 Atlantic L4150
+852,"Nahant, MA",True,763 Atlantic L4150
+853,"Hudsonville, MI",False,
+854,"Jenison, MI",False,
+855,"Coopersville, MI",False,
+856,"Marne, MI",False,
+857,"Conklin, MI",False,
+858,"Ferrysburg, MI",True,3669 Great Lakes L4150
+859,"Boulder, CO",False,
+860,"Longmont, CO",False,
+861,"Louisville, CO",False,
+862,"Lafayette, CO",False,
+863,"Superior, CO",False,
+864,"Lyons, CO",False,
+865,"Nederland, CO",False,
+866,"Niwot, CO",False,
+867,"Ward, CO",False,
+868,"Allenspark, CO",False,
+869,"East Fishkill, NY",False,
+870,"Beacon, NY",False,
+871,"Beekman, NY",False,
+872,"Hyde Park, NY",False,
+873,"Wappingers Falls, NY",False,
+874,"Myers Corner, NY",False,
+875,"Clinton, NY",False,
+876,"Clinton, NY",False,
+877,"Clinton, NY",False,
+878,"Clinton, NY",False,
+879,"Milan, NY",False,
+880,"Brinckerhoff, NY",False,
+881,"Hopewell Junction, NY",False,
+882,"Millbrook, NY",False,
+883,"Hillside Lake, NY",False,
+884,"Milton, FL",False,
+885,"Navarre, FL",True,4205 Gulf L4150
+886,"Gulf Breeze, FL",True,4205 Gulf L4150
+887,"Pace, FL",False,
+888,"Jay, FL",False,
+889,"Eau Claire, WI",False,
+890,"Altoona, WI",False,
+891,"Augusta, WI",False,
+892,"Eleva, WI",False,
+893,"Fall Creek, WI",False,
+894,"Fairchild, WI",False,
+895,"Scranton, PA",False,
+896,"Dunmore, PA",False,
+897,"Old Forge, PA",False,
+898,"Archbald, PA",False,
+899,"Blakely, PA",False,
+900,"Moosic, PA",False,
+901,"Olyphant, PA",False,
+902,"Clarks Summit, PA",False,
+903,"Jessup, PA",False,
+904,"Throop, PA",False,
+905,"Taylor, PA",False,
+906,"Dickson City, PA",False,
+907,"Moscow, PA",False,
+908,"Jermyn, PA",False,
+909,"Ransom, PA",False,
+910,"Clifton, PA",False,
+911,"Mount Cobb, PA",False,
+912,"Dalton, PA",False,
+913,"Glenburn, PA",False,
+914,"Mayfield, PA",False,
+915,"Clarks Green, PA",False,
+916,"Thornhurst, PA",False,
+917,"New Braunfels, TX",False,
+918,"Canyon Lake, TX",False,
+919,"Bulverde, TX",False,
+920,"Spring Branch, TX",False,
+921,"Garden Ridge, TX",False,
+922,"Fischer, TX",False,
+923,"Maryville, TN",False,
+924,"Alcoa, TN",False,
+925,"Friendsville, TN",False,
+926,"Tallassee, TN",False,
+927,"Rockford, TN",False,
+928,"Palm Coast, FL",True,1005 Atlantic L4150
+929,"Bunnell, FL",True,669 Atlantic L4150
+930,"Flagler Beach, FL",True,669 Atlantic L4150
+931,"League City, TX",True,4154 Gulf L4150
+932,"Galveston, TX",True,4156 Gulf L4150
+933,"Texas City, TX",True,4439 Gulf L4150
+934,"Friendswood, TX",False,
+935,"La Marque, TX",True,4156 Gulf L4150
+936,"Santa Fe, TX",False,
+937,"Bacliff, TX",True,4154 Gulf L4150
+938,"San Leon, TX",True,4443 Gulf L4150
+939,"Bayou Vista, TX",True,4156 Gulf L4150
+940,"Port Bolivar, TX",True,4438 Gulf L4150
+941,"Jamaica Beach, TX",True,4156 Gulf L4150
+942,"Deltona, FL",False,
+943,"Daytona Beach, FL",True,1028 Atlantic L4150
+944,"Port Orange, FL",True,1028 Atlantic L4150
+945,"Enterprise, FL",False,
+946,"Ormond Beach, FL",True,1028 Atlantic L4150
+947,"Edgewater, FL",True,1028 Atlantic L4150
+948,"Orange City, FL",False,
+949,"New Smyrna Beach, FL",True,1028 Atlantic L4150
+950,"Holly Hill, FL",True,1028 Atlantic L4150
+951,"South Daytona, FL",True,1028 Atlantic L4150
+952,"De Leon Springs, FL",False,
+953,"Ponce Inlet, FL",True,1028 Atlantic L4150
+954,"Ormond-by-the-Sea, FL",True,669 Atlantic L4150
+955,"Lake Helen, FL",False,
+956,"Oak Hill, FL",True,1043 Atlantic L4150
+957,"Glencoe, FL",True,1028 Atlantic L4150
+958,"Pierson, FL",False,
+959,"Daytona Beach Shores, FL",True,1028 Atlantic L4150
+960,"Asheville, NC",False,
+961,"Candler, NC",False,
+962,"Arden, NC",False,
+963,"Weaverville, NC",False,
+964,"Black Mountain, NC",False,
+965,"Leicester, NC",False,
+966,"Swannanoa, NC",False,
+967,"Woodfin, NC",False,
+968,"Fairview, NC",False,
+969,"Fairview, NC",False,
+970,"Barnardsville, NC",False,
+971,"Biltmore Forest, NC",False,
+972,"Bent Creek, NC",False,
+973,"Mooresville, NC",False,
+974,"Statesville, NC",False,
+975,"Troutman, NC",False,
+976,"Harmony, NC",False,
+977,"Stony Point, NC",False,
+978,"Union Grove, NC",False,
+979,"Olin, NC",False,
+980,"Bremerton, WA",True,2025 Pacific L4150
+981,"Port Orchard, WA",True,2025 Pacific L4150
+982,"Poulsbo, WA",True,2014 Pacific L4150
+983,"Silverdale, WA",True,2014 Pacific L4150
+984,"Kingston, WA",True,2029 Pacific L4150
+985,"Olalla, WA",True,2032 Pacific L4150
+986,"Seabeck, WA",False,
+987,"Hansville, WA",True,2029 Pacific L4150
+988,"Indianola, WA",True,2026 Pacific L4150
+989,"Suquamish, WA",True,2026 Pacific L4150
+990,"Great Falls, MT",False,
+991,"Cascade, MT",False,
+992,"Belt, MT",False,
+993,"Casper, WY",False,
+994,"Evansville, WY",False,
+995,"Bar Nunn, WY",False,
+996,"San Rafael, CA",True,1990 Pacific L4150
+997,"Novato, CA",False,
+998,"Mill Valley, CA",True,1990 Pacific L4150
+999,"San Anselmo, CA",True,1990 Pacific L4150
+1000,"Tiburon, CA",True,1990 Pacific L4150
+1001,"Sausalito, CA",True,1990 Pacific L4150
+1002,"Corte Madera, CA",True,1990 Pacific L4150
+1003,"Fairfax, CA",True,1990 Pacific L4150
+1004,"Kentfield, CA",True,1990 Pacific L4150
+1005,"Larkspur, CA",True,1990 Pacific L4150
+1006,"Belvedere, CA",True,1990 Pacific L4150
+1007,"Point Reyes Station, CA",True,1990 Pacific L4150
+1008,"Lagunitas, CA",True,1990 Pacific L4150
+1009,"Ross, CA",True,1990 Pacific L4150
+1010,"Inverness, CA",True,1990 Pacific L4150
+1011,"Stinson Beach, CA",True,1990 Pacific L4150
+1012,"Port Charlotte, FL",False,
+1013,"Punta Gorda, FL",False,
+1014,"Englewood, FL",True,4127 Gulf L4150
+1015,"Placida, FL",True,4123 Gulf L4150
+1016,"Bellingham, WA",True,1778 Pacific L4150
+1017,"Ferndale, WA",True,2009 Pacific L4150
+1018,"Lynden, WA",False,
+1019,"Blaine, WA",True,2009 Pacific L4150
+1020,"Sudden Valley, WA",True,1778 Pacific L4150
+1021,"Custer, WA",True,2009 Pacific L4150
+1022,"Maple Falls, WA",False,
+1023,"Sumas, WA",False,
+1024,"Geneva, WA",True,1778 Pacific L4150
+1025,"Deming, WA",False,
+1026,"Lummi Island, WA",True,1736 Pacific L4150
+1027,"Everson, WA",False,
+1028,"Point Roberts, WA",True,1782 Pacific L4150
+1029,"Brunswick, GA",True,994 Atlantic L4150
+1030,"Saint Simons Island, GA",True,488 Atlantic L4150
+1031,"Venice, FL",True,4127 Gulf L4150
+1032,"North Port, FL",False,
+1033,"Sarasota, FL",True,4127 Gulf L4150
+1034,"Fruitville, FL",True,4127 Gulf L4150
+1035,"Nokomis, FL",True,4127 Gulf L4150
+1036,"Gulf Gate Estates, FL",True,4127 Gulf L4150
+1037,"Bee Ridge, FL",True,4127 Gulf L4150
+1038,"North Sarasota, FL",True,4127 Gulf L4150
+1039,"Southgate, FL",True,4127 Gulf L4150
+1040,"Siesta Key, FL",True,4127 Gulf L4150
+1041,"Osprey, FL",True,4127 Gulf L4150
+1042,"South Gate Ridge, FL",True,4127 Gulf L4150
+1043,"Lake Sarasota, FL",True,4127 Gulf L4150
+1044,"Ridge Wood Heights, FL",True,4127 Gulf L4150
+1045,"Kensington Park, FL",True,4127 Gulf L4150
+1046,"Desoto Lakes, FL",True,4127 Gulf L4150
+1047,"The Meadows, FL",True,4127 Gulf L4150
+1048,"South Sarasota, FL",True,4127 Gulf L4150
+1049,"Longboat Key, FL",True,4127 Gulf L4150
+1050,"Vamo, FL",True,4127 Gulf L4150
+1051,"Utica, NY",False,
+1052,"Rome, NY",False,
+1053,"New Hartford, NY",False,
+1054,"Lee, NY",False,
+1055,"Marcy, NY",False,
+1056,"Verona, NY",False,
+1057,"Westmoreland, NY",False,
+1058,"Kirkland, NY",False,
+1059,"Vienna, NY",False,
+1060,"Deerfield, NY",False,
+1061,"Paris, NY",False,
+1062,"Floyd, NY",False,
+1063,"Annsville, NY",False,
+1064,"Sherrill, NY",False,
+1065,"Yorkville, NY",False,
+1066,"New York Mills, NY",False,
+1067,"Marshall, NY",False,
+1068,"Whitesboro, NY",False,
+1069,"Forestport, NY",False,
+1070,"San Marcos, TX",False,
+1071,"Kyle, TX",False,
+1072,"Dripping Springs, TX",False,
+1073,"Wimberley, TX",False,
+1074,"Woodcreek, TX",False,
+1075,"Buda, TX",False,
+1076,"Woodbury, MN",False,
+1077,"Cottage Grove, MN",False,
+1078,"Oakdale, MN",False,
+1079,"Forest Lake, MN",False,
+1080,"Stillwater, MN",False,
+1081,"Hugo, MN",False,
+1082,"Lake Elmo, MN",False,
+1083,"Mahtomedi, MN",False,
+1084,"Saint Paul Park, MN",False,
+1085,"Grant, MN",False,
+1086,"Newport, MN",False,
+1087,"Bayport, MN",False,
+1088,"Lakeland, MN",False,
+1089,"Marine on Saint Croix, MN",False,
+1090,"Afton, MN",False,
+1091,"Oak Park Heights, MN",False,
+1092,"Lake Saint Croix Beach, MN",False,
+1093,"Dellwood, MN",False,
+1094,"Scandia, MN",False,
+1095,"Valley Stream, NY",True,1034 Atlantic L4150
+1096,"Massapequa, NY",True,1087 Atlantic L4150
+1097,"Freeport, NY",True,1087 Atlantic L4150
+1098,"Levittown, NY",True,1087 Atlantic L4150
+1099,"Elmont, NY",True,1035 Atlantic L4150
+1100,"Hicksville, NY",True,1035 Atlantic L4150
+1101,"Great Neck, NY",True,1035 Atlantic L4150
+1102,"East Meadow, NY",True,1034 Atlantic L4150
+1103,"Merrick, NY",True,1087 Atlantic L4150
+1104,"Bellmore, NY",True,1087 Atlantic L4150
+1105,"Farmingdale, NY",True,1087 Atlantic L4150
+1106,"Baldwin, NY",True,1034 Atlantic L4150
+1107,"Long Beach, NY",True,1034 Atlantic L4150
+1108,"Plainview, NY",False,
+1109,"Wantagh, NY",True,1087 Atlantic L4150
+1110,"Oceanside, NY",True,1034 Atlantic L4150
+1111,"Glen Cove, NY",True,921 Atlantic L4150
+1112,"Uniondale, NY",True,1034 Atlantic L4150
+1113,"West Hempstead, NY",True,1034 Atlantic L4150
+1114,"Franklin Square, NY",True,1035 Atlantic L4150
+1115,"Garden City, NY",True,1035 Atlantic L4150
+1116,"Rockville Centre, NY",True,1034 Atlantic L4150
+1117,"Seaford, NY",True,1087 Atlantic L4150
+1118,"Bethpage, NY",True,1087 Atlantic L4150
+1119,"Lynbrook, NY",True,1034 Atlantic L4150
+1120,"Mineola, NY",True,1035 Atlantic L4150
+1121,"Massapequa Park, NY",True,1087 Atlantic L4150
+1122,"Syosset, NY",True,1087 Atlantic L4150
+1123,"Westbury, NY",True,1035 Atlantic L4150
+1124,"Port Washington, NY",True,1035 Atlantic L4150
+1125,"North New Hyde Park, NY",True,1035 Atlantic L4150
+1126,"Floral Park, NY",True,1035 Atlantic L4150
+1127,"Manhasset, NY",True,1035 Atlantic L4150
+1128,"New Cassel, NY",True,1035 Atlantic L4150
+1129,"Salisbury, NY",False,
+1130,"Salisbury, NY",False,
+1131,"Salisbury, NY",False,
+1132,"Salisbury, NY",False,
+1133,"Woodbury, NY",True,1087 Atlantic L4150
+1134,"Woodbury, NY",True,1087 Atlantic L4150
+1135,"Woodbury, NY",True,1087 Atlantic L4150
+1136,"Woodbury, NY",True,1087 Atlantic L4150
+1137,"Jericho, NY",True,1035 Atlantic L4150
+1138,"Woodmere, NY",True,1034 Atlantic L4150
+1139,"Roslyn Heights, NY",True,1035 Atlantic L4150
+1140,"Roosevelt, NY",True,1034 Atlantic L4150
+1141,"East Rockaway, NY",True,1034 Atlantic L4150
+1142,"New Hyde Park, NY",True,1035 Atlantic L4150
+1143,"Garden City Park, NY",True,1035 Atlantic L4150
+1144,"Inwood, NY",True,1034 Atlantic L4150
+1145,"Williston Park, NY",True,1035 Atlantic L4150
+1146,"Lawrence, NY",True,1034 Atlantic L4150
+1147,"Hewlett, NY",True,1034 Atlantic L4150
+1148,"Malverne, NY",True,1034 Atlantic L4150
+1149,"Manorhaven, NY",True,1035 Atlantic L4150
+1150,"Cedarhurst, NY",True,1034 Atlantic L4150
+1151,"Oyster Bay, NY",True,1087 Atlantic L4150
+1152,"Island Park, NY",True,1034 Atlantic L4150
+1153,"Carle Place, NY",True,1035 Atlantic L4150
+1154,"North Hills, NY",True,1035 Atlantic L4150
+1155,"Herricks, NY",True,1035 Atlantic L4150
+1156,"East Garden City, NY",True,1035 Atlantic L4150
+1157,"Sea Cliff, NY",True,921 Atlantic L4150
+1158,"Old Bethpage, NY",False,
+1159,"Old Westbury, NY",True,1035 Atlantic L4150
+1160,"Manhasset Hills, NY",True,1035 Atlantic L4150
+1161,"Muttontown, NY",True,1087 Atlantic L4150
+1162,"Glen Head, NY",True,1035 Atlantic L4150
+1163,"East Hills, NY",True,1035 Atlantic L4150
+1164,"Locust Valley, NY",True,1087 Atlantic L4150
+1165,"Garden City South, NY",True,1034 Atlantic L4150
+1166,"Albertson, NY",True,1035 Atlantic L4150
+1167,"Searingtown, NY",True,1035 Atlantic L4150
+1168,"East Norwich, NY",True,1087 Atlantic L4150
+1169,"East Williston, NY",True,1035 Atlantic L4150
+1170,"Flower Hill, NY",True,1035 Atlantic L4150
+1171,"Bayville, NY",True,1087 Atlantic L4150
+1172,"Sands Point, NY",True,1035 Atlantic L4150
+1173,"Roslyn, NY",True,1035 Atlantic L4150
+1174,"Stewart Manor, NY",True,1035 Atlantic L4150
+1175,"Port Washington North, NY",True,1035 Atlantic L4150
+1176,"Lattingtown, NY",True,1087 Atlantic L4150
+1177,"Oyster Bay Cove, NY",True,1087 Atlantic L4150
+1178,"Plandome, NY",True,1035 Atlantic L4150
+1179,"Bellerose Terrace, NY",True,1035 Atlantic L4150
+1180,"Point Lookout, NY",True,1087 Atlantic L4150
+1181,"Laurel Hollow, NY",True,1087 Atlantic L4150
+1182,"Hewlett Harbor, NY",True,1034 Atlantic L4150
+1183,"Atlantic Beach, NY",True,1034 Atlantic L4150
+1184,"Upper Brookville, NY",True,1087 Atlantic L4150
+1185,"San Luis Obispo, CA",True,2028 Pacific L4150
+1186,"Paso Robles, CA",False,
+1187,"Atascadero, CA",False,
+1188,"Arroyo Grande, CA",True,2028 Pacific L4150
+1189,"Nipomo, CA",True,2028 Pacific L4150
+1190,"Los Osos, CA",True,3313 Pacific L4150
+1191,"Grover Beach, CA",True,2028 Pacific L4150
+1192,"Morro Bay, CA",True,2028 Pacific L4150
+1193,"Oceano, CA",True,2028 Pacific L4150
+1194,"Templeton, CA",False,
+1195,"San Miguel, CA",False,
+1196,"Pismo Beach, CA",True,2028 Pacific L4150
+1197,"Cambria, CA",True,2028 Pacific L4150
+1198,"Cayucos, CA",True,2028 Pacific L4150
+1199,"Avila Beach, CA",True,3313 Pacific L4150
+1200,"Huntsville, TX",False,
+1201,"Kissimmee, FL",False,
+1202,"Saint Cloud, FL",False,
+1203,"Yeehaw Junction, FL",False,
+1204,"Poinciana, FL",False,
+1205,"Citrus Ridge, FL",False,
+1206,"Celebration, FL",False,
+1207,"Bozeman, MT",False,
+1208,"Belgrade, MT",False,
+1209,"Three Forks, MT",False,
+1210,"Manhattan, MT",False,
+1211,"Manalapan, NJ",False,
+1212,"Long Branch, NJ",True,1047 Atlantic L4150
+1213,"Middletown, NJ",True,1102 Atlantic L4150
+1214,"Hazlet, NJ",True,1102 Atlantic L4150
+1215,"Tinton Falls, NJ",True,1047 Atlantic L4150
+1216,"Marlboro, NJ",True,1102 Atlantic L4150
+1217,"Holmdel, NJ",True,1102 Atlantic L4150
+1218,"Red Bank, NJ",True,1047 Atlantic L4150
+1219,"Eatontown, NJ",True,1047 Atlantic L4150
+1220,"Colts Neck, NJ",False,
+1221,"Keansburg, NJ",True,1102 Atlantic L4150
+1222,"Matawan, NJ",True,1102 Atlantic L4150
+1223,"Morganville, NJ",True,1102 Atlantic L4150
+1224,"West Long Branch, NJ",True,1047 Atlantic L4150
+1225,"Keyport, NJ",True,1102 Atlantic L4150
+1226,"Rumson, NJ",True,1047 Atlantic L4150
+1227,"Union Beach, NJ",True,1102 Atlantic L4150
+1228,"Fair Haven, NJ",True,1047 Atlantic L4150
+1229,"Manasquan, NJ",True,1085 Atlantic L4150
+1230,"Belmar, NJ",True,1085 Atlantic L4150
+1231,"Little Silver, NJ",True,1047 Atlantic L4150
+1232,"Yorketown, NJ",False,
+1233,"Neptune City, NJ",True,1085 Atlantic L4150
+1234,"Brielle, NJ",True,1085 Atlantic L4150
+1235,"Spring Lake Heights, NJ",True,1085 Atlantic L4150
+1236,"Oceanport, NJ",True,1047 Atlantic L4150
+1237,"Atlantic Highlands, NJ",True,1047 Atlantic L4150
+1238,"Shrewsbury, NJ",True,1047 Atlantic L4150
+1239,"Oakhurst, NJ",True,1047 Atlantic L4150
+1240,"Cliffwood, NJ",True,1102 Atlantic L4150
+1241,"Bradley Beach, NJ",True,1085 Atlantic L4150
+1242,"Ocean Grove, NJ",True,1085 Atlantic L4150
+1243,"Spring Lake, NJ",True,1085 Atlantic L4150
+1244,"Cliffwood Beach, NJ",True,1102 Atlantic L4150
+1245,"Monmouth Beach, NJ",True,1047 Atlantic L4150
+1246,"Wanamassa, NJ",True,1085 Atlantic L4150
+1247,"Englishtown, NJ",False,
+1248,"Sea Girt, NJ",True,1085 Atlantic L4150
+1249,"Allentown, NJ",False,
+1250,"Lake Como, NJ",True,1085 Atlantic L4150
+1251,"West Belmar, NJ",True,1085 Atlantic L4150
+1252,"Shark River Hills, NJ",True,1085 Atlantic L4150
+1253,"Sea Bright, NJ",True,1047 Atlantic L4150
+1254,"Deal, NJ",True,1047 Atlantic L4150
+1255,"Interlaken, NJ",True,1085 Atlantic L4150
+1256,"Norton Shores, MI",True,3669 Great Lakes L4150
+1257,"Muskegon Heights, MI",True,3669 Great Lakes L4150
+1258,"Montague, MI",True,3450 Great Lakes L4150
+1259,"Whitehall, MI",True,3450 Great Lakes L4150
+1260,"Ravenna, MI",False,
+1261,"Roosevelt Park, MI",True,3669 Great Lakes L4150
+1262,"Holton, MI",False,
+1263,"Wolf Lake, MI",False,
+1264,"North Muskegon, MI",True,3669 Great Lakes L4150
+1265,"Twin Lake, MI",False,
+1266,"Lakewood Club, MI",True,3678 Great Lakes L4150
+1267,"Casnovia, MI",False,
+1268,"Lake Havasu City, AZ",False,
+1269,"Kingman, AZ",False,
+1270,"Bullhead City, AZ",False,
+1271,"Mohave Valley, AZ",False,
+1272,"Golden Valley, AZ",False,
+1273,"Dolan Springs, AZ",False,
+1274,"Union, NJ",False,
+1275,"Union, NJ",False,
+1276,"Readington, NJ",False,
+1277,"Flemington, NJ",False,
+1278,"Lambertville, NJ",False,
+1279,"High Bridge, NJ",False,
+1280,"Glen Gardner, NJ",False,
+1281,"Frenchtown, NJ",False,
+1282,"Hampton, NJ",False,
+1283,"Milford, NJ",False,
+1284,"Bloomsbury, NJ",False,
+1285,"Whitehouse Station, NJ",False,
+1286,"Missoula, MT",False,
+1287,"Lolo, MT",False,
+1288,"East Missoula, MT",False,
+1289,"Clinton, MT",False,
+1290,"Huson, MT",False,
+1291,"Bonner, MT",False,
+1292,"Condon, MT",False,
+1293,"Frenchtown, MT",False,
+1294,"Orchard Homes, MT",False,
+1295,"Seeley Lake, MT",False,
+1296,"Binghamton, NY",False,
+1297,"Vestal, NY",False,
+1298,"Union, NY",False,
+1299,"Johnson City, NY",False,
+1300,"Endicott, NY",False,
+1301,"Endwell, NY",False,
+1302,"Kirkwood, NY",False,
+1303,"Maine, NY",False,
+1304,"Dickinson, NY",False,
+1305,"Conklin, NY",False,
+1306,"Barker, NY",True,3656 Great Lakes L4150
+1307,"Sanford, NY",False,
+1308,"Port Dickinson, NY",False,
+1309,"Klamath Falls, OR",False,
+1310,"Chiloquin, OR",False,
+1311,"Malin, OR",False,
+1312,"Crescent, OR",False,
+1313,"Bonanza, OR",False,
+1314,"Middletown, NY",False,
+1315,"Middletown, NY",False,
+1316,"Middletown, NY",False,
+1317,"Middletown, NY",False,
+1318,"Scotchtown, NY",False,
+1319,"Port Jervis, NY",False,
+1320,"Wallkill, NY",False,
+1321,"Crawford, NY",False,
+1322,"Walden, NY",False,
+1323,"Mechanicstown, NY",False,
+1324,"Hamptonburgh, NY",False,
+1325,"Greenville, NY",False,
+1326,"Walton Park, NY",False,
+1327,"Vails Gate, NY",False,
+1328,"Highland Falls, NY",False,
+1329,"Greenwood Lake, NY",False,
+1330,"Florida, NY",False,
+1331,"Florida, NY",False,
+1332,"Washingtonville, NY",False,
+1333,"Harriman, NY",False,
+1334,"Washington Heights, NY",True,1035 Atlantic L4150
+1335,"Pine Bush, NY",False,
+1336,"Maybrook, NY",False,
+1337,"Prescott, AZ",False,
+1338,"Prescott Valley, AZ",False,
+1339,"Cottonwood, AZ",False,
+1340,"Sedona, AZ",False,
+1341,"Chino Valley, AZ",False,
+1342,"Camp Verde, AZ",False,
+1343,"Rimrock, AZ",False,
+1344,"Clarkdale, AZ",False,
+1345,"Cornville, AZ",False,
+1346,"Paulden, AZ",False,
+1347,"Congress, AZ",False,
+1348,"Mayer, AZ",False,
+1349,"Kirkland, AZ",False,
+1350,"Morristown, NJ",False,
+1351,"Dover, NJ",False,
+1352,"Denville, NJ",False,
+1353,"Madison, NJ",False,
+1354,"Hanover, NJ",False,
+1355,"Lincoln Park, NJ",False,
+1356,"East Hanover, NJ",False,
+1357,"Long Valley, NJ",False,
+1358,"Kinnelon, NJ",False,
+1359,"Succasunna, NJ",False,
+1360,"Florham Park, NJ",False,
+1361,"Chatham, NJ",False,
+1362,"Budd Lake, NJ",False,
+1363,"Boonton, NJ",False,
+1364,"Butler, NJ",False,
+1365,"Wharton, NJ",False,
+1366,"Morris Plains, NJ",False,
+1367,"Montville, NJ",False,
+1368,"Pequannock, NJ",False,
+1369,"Mountain Lakes, NJ",False,
+1370,"Riverdale, NJ",False,
+1371,"Mount Arlington, NJ",False,
+1372,"Mine Hill, NJ",False,
+1373,"Netcong, NJ",False,
+1374,"Easley, SC",False,
+1375,"Clemson, SC",False,
+1376,"Central, SC",False,
+1377,"Liberty, SC",False,
+1378,"Pickens, SC",False,
+1379,"Waukesha, WI",False,
+1380,"New Berlin, WI",False,
+1381,"Menomonee Falls, WI",False,
+1382,"Brookfield, WI",False,
+1383,"Muskego, WI",False,
+1384,"Genesee, WI",False,
+1385,"Hartland, WI",False,
+1386,"Elm Grove, WI",True,3741 Great Lakes L4150
+1387,"Sussex, WI",False,
+1388,"Vernon, WI",False,
+1389,"Ottawa, WI",False,
+1390,"Butler, WI",True,3451 Great Lakes L4150
+1391,"Nashotah, WI",False,
+1392,"North Prairie, WI",False,
+1393,"Dousman, WI",False,
+1394,"Wales, WI",False,
+1395,"Big Bend, WI",False,
+1396,"Troy, NY",False,
+1397,"Brunswick, NY",False,
+1398,"Rensselaer, NY",False,
+1399,"Averill Park, NY",False,
+1400,"Pittstown, NY",False,
+1401,"Hoosick Falls, NY",False,
+1402,"Hoosick, NY",False,
+1403,"Stephentown, NY",False,
+1404,"West Sand Lake, NY",False,
+1405,"Valley Falls, NY",False,
+1406,"Wynantskill, NY",False,
+1407,"Petersburg, NY",False,
+1408,"Hampton Manor, NY",False,
+1409,"Sierra Vista, AZ",False,
+1410,"Douglas, AZ",False,
+1411,"Benson, AZ",False,
+1412,"Hereford, AZ",False,
+1413,"Willcox, AZ",False,
+1414,"Bisbee, AZ",False,
+1415,"Huachuca City, AZ",False,
+1416,"Pearce, AZ",False,
+1417,"Tombstone, AZ",False,
+1418,"Saint David, AZ",False,
+1419,"Oregon City, OR",False,
+1420,"Lake Oswego, OR",False,
+1421,"West Linn, OR",False,
+1422,"Happy Valley, OR",False,
+1423,"Milwaukie, OR",False,
+1424,"Wilsonville, OR",False,
+1425,"Canby, OR",False,
+1426,"Sandy, OR",False,
+1427,"Oak Grove, OR",False,
+1428,"Molalla, OR",False,
+1429,"Estacada, OR",False,
+1430,"Gladstone, OR",False,
+1431,"Damascus, OR",False,
+1432,"Jennings Lodge, OR",False,
+1433,"Boring, OR",False,
+1434,"Clackamas, OR",False,
+1435,"Eagle Creek, OR",False,
+1436,"Mulino, OR",False,
+1437,"Rhododendron, OR",False,
+1438,"Welches, OR",False,
+1439,"Colton, OR",False,
+1440,"Oshkosh, WI",False,
+1441,"Algoma, WI",True,3708 Great Lakes L4150
+1442,"Algoma, WI",True,3708 Great Lakes L4150
+1443,"Algoma, WI",True,3708 Great Lakes L4150
+1444,"Algoma, WI",True,3708 Great Lakes L4150
+1445,"Omro, WI",False,
+1446,"Clayton, WI",False,
+1447,"Larsen, WI",False,
+1448,"Utica, WI",False,
+1449,"Black Wolf, WI",False,
+1450,"Middletown, CT",False,
+1451,"Cromwell, CT",False,
+1452,"Old Saybrook, CT",True,749 Atlantic L4150
+1453,"East Haddam, CT",False,
+1454,"Essex, CT",True,749 Atlantic L4150
+1455,"Westbrook, CT",True,749 Atlantic L4150
+1456,"Deep River, CT",True,749 Atlantic L4150
+1457,"Killingworth, CT",True,749 Atlantic L4150
+1458,"Chester, CT",True,749 Atlantic L4150
+1459,"Higganum, CT",False,
+1460,"Middlefield, CT",False,
+1461,"Haddam, CT",False,
+1462,"El Centro, CA",False,
+1463,"Calexico, CA",False,
+1464,"Brawley, CA",False,
+1465,"Imperial, CA",False,
+1466,"Holtville, CA",False,
+1467,"Heber, CA",False,
+1468,"Sebring, FL",False,
+1469,"Avon Park, FL",False,
+1470,"Lake Placid, FL",False,
+1471,"Lorida, FL",False,
+1472,"Lima, WI",False,
+1473,"Kohler, WI",True,3697 Great Lakes L4150
+1474,"Greenbush, WI",False,
+1475,"Wilson, WI",False,
+1476,"Wilson, WI",False,
+1477,"Holland, WI",False,
+1478,"Holland, WI",False,
+1479,"Rhine, WI",False,
+1480,"Howards Grove, WI",True,3711 Great Lakes L4150
+1481,"Random Lake, WI",True,3697 Great Lakes L4150
+1482,"Elkhart Lake, WI",False,
+1483,"Cedar Grove, WI",True,3697 Great Lakes L4150
+1484,"Oostburg, WI",True,3697 Great Lakes L4150
+1485,"Mount Vernon, WA",True,1995 Pacific L4150
+1486,"Anacortes, WA",True,1824 Pacific L4150
+1487,"Burlington, WA",True,3201 Pacific L4150
+1488,"Sedro-Woolley, WA",False,
+1489,"La Conner, WA",True,3213 Pacific L4150
+1490,"Bow, WA",True,3201 Pacific L4150
+1491,"Howell, MI",False,
+1492,"Brighton, MI",False,
+1493,"Pinckney, MI",False,
+1494,"Fowlerville, MI",False,
+1495,"Gregory, MI",False,
+1496,"Hartland, MI",False,
+1497,"Atlantic City, NJ",True,1046 Atlantic L4150
+1498,"Pleasantville, NJ",True,1046 Atlantic L4150
+1499,"Hammonton, NJ",False,
+1500,"Somers Point, NJ",True,1046 Atlantic L4150
+1501,"Ventnor City, NJ",True,1046 Atlantic L4150
+1502,"Northfield, NJ",True,1046 Atlantic L4150
+1503,"Absecon, NJ",True,1046 Atlantic L4150
+1504,"Brigantine, NJ",True,1046 Atlantic L4150
+1505,"Linwood, NJ",True,1046 Atlantic L4150
+1506,"Pomona, NJ",False,
+1507,"Margate City, NJ",True,1046 Atlantic L4150
+1508,"Buena, NJ",False,
+1509,"Egg Harbor City, NJ",False,
+1510,"Estell Manor, NJ",False,
+1511,"Folsom, NJ",False,
+1512,"Longport, NJ",True,1046 Atlantic L4150
+1513,"Port Republic, NJ",True,1046 Atlantic L4150
+1514,"Collings Lakes, NJ",False,
+1515,"Mays Landing, NJ",False,
+1516,"Hilo, HI",True,1769 Pacific L4150
+1517,"Pahoa, HI",True,1769 Pacific L4150
+1518,"Keaau, HI",True,1769 Pacific L4150
+1519,"Captain Cook, HI",True,1769 Pacific L4150
+1520,"Honokaa, HI",True,1769 Pacific L4150
+1521,"Waimea, HI",True,1717 Pacific L4150
+1522,"Waimea, HI",True,1717 Pacific L4150
+1523,"Waimea, HI",True,1717 Pacific L4150
+1524,"Waimea, HI",True,1717 Pacific L4150
+1525,"Waikoloa, HI",True,1769 Pacific L4150
+1526,"Mountain View, HI",False,
+1527,"Kealakekua, HI",True,1769 Pacific L4150
+1528,"Naalehu, HI",True,1769 Pacific L4150
+1529,"Holualoa, HI",True,1769 Pacific L4150
+1530,"Puako, HI",True,1769 Pacific L4150
+1531,"Pepeekeo, HI",True,1769 Pacific L4150
+1532,"Kapaau, HI",True,1769 Pacific L4150
+1533,"Volcano, HI",False,
+1534,"Pittsfield, MA",False,
+1535,"North Adams, MA",False,
+1536,"Dalton, MA",False,
+1537,"Cheshire, MA",False,
+1538,"Hinsdale, MA",False,
+1539,"Stockbridge, MA",False,
+1540,"Becket, MA",False,
+1541,"New Marlborough, MA",False,
+1542,"Richmond, MA",False,
+1543,"Otis, MA",False,
+1544,"Sheffield, MA",False,
+1545,"West Stockbridge, MA",False,
+1546,"Sandisfield, MA",False,
+1547,"Hancock, MA",False,
+1548,"Monterey, MA",False,
+1549,"Roseburg, OR",False,
+1550,"Myrtle Creek, OR",False,
+1551,"Sutherlin, OR",False,
+1552,"Reedsport, OR",True,3392 Pacific L4150
+1553,"Winston, OR",False,
+1554,"Oakland, OR",False,
+1555,"Canyonville, OR",False,
+1556,"Yoncalla, OR",False,
+1557,"Riddle, OR",False,
+1558,"Glide, OR",False,
+1559,"Drain, OR",False,
+1560,"Glendale, OR",False,
+1561,"Winchester, OR",False,
+1562,"Granbury, TX",False,
+1563,"Patchogue, NY",True,1087 Atlantic L4150
+1564,"Lindenhurst, NY",True,1087 Atlantic L4150
+1565,"West Babylon, NY",True,1087 Atlantic L4150
+1566,"Ronkonkoma, NY",True,1087 Atlantic L4150
+1567,"Commack, NY",True,1087 Atlantic L4150
+1568,"Centereach, NY",True,1087 Atlantic L4150
+1569,"East Northport, NY",True,1087 Atlantic L4150
+1570,"Amityville, NY",True,1087 Atlantic L4150
+1571,"Dix Hills, NY",True,1087 Atlantic L4150
+1572,"Deer Park, NY",True,1087 Atlantic L4150
+1573,"Smithtown, NY",True,1087 Atlantic L4150
+1574,"Stony Brook, NY",True,1087 Atlantic L4150
+1575,"Medford, NY",True,1087 Atlantic L4150
+1576,"Port Jefferson Station, NY",True,1087 Atlantic L4150
+1577,"Shirley, NY",True,1087 Atlantic L4150
+1578,"Melville, NY",True,1087 Atlantic L4150
+1579,"Copiague, NY",True,1087 Atlantic L4150
+1580,"Selden, NY",True,1087 Atlantic L4150
+1581,"Coram, NY",True,1087 Atlantic L4150
+1582,"Kings Park, NY",True,1087 Atlantic L4150
+1583,"North Babylon, NY",True,1087 Atlantic L4150
+1584,"Farmingville, NY",True,1087 Atlantic L4150
+1585,"Mastic, NY",True,1087 Atlantic L4150
+1586,"Wyandanch, NY",True,1087 Atlantic L4150
+1587,"Huntington, NY",True,1087 Atlantic L4150
+1588,"Manorville, NY",True,1087 Atlantic L4150
+1589,"Saint James, NY",True,1087 Atlantic L4150
+1590,"Mastic Beach, NY",True,1087 Atlantic L4150
+1591,"Babylon, NY",True,1087 Atlantic L4150
+1592,"East Hampton, NY",True,873 Atlantic L4150
+1593,"Holtsville, NY",True,1087 Atlantic L4150
+1594,"Islip, NY",True,1087 Atlantic L4150
+1595,"Middle Island, NY",True,1087 Atlantic L4150
+1596,"Lake Grove, NY",True,1087 Atlantic L4150
+1597,"Rocky Point, NY",True,1087 Atlantic L4150
+1598,"Nesconset, NY",True,1087 Atlantic L4150
+1599,"Ridge, NY",True,1087 Atlantic L4150
+1600,"Mount Sinai, NY",True,1087 Atlantic L4150
+1601,"South Huntington, NY",True,1087 Atlantic L4150
+1602,"Miller Place, NY",True,1087 Atlantic L4150
+1603,"Hampton Bays, NY",True,1087 Atlantic L4150
+1604,"Bellport, NY",True,1087 Atlantic L4150
+1605,"Fort Salonga, NY",True,1087 Atlantic L4150
+1606,"Port Jefferson, NY",True,1087 Atlantic L4150
+1607,"Northport, NY",True,1087 Atlantic L4150
+1608,"Sound Beach, NY",True,1087 Atlantic L4150
+1609,"Center Moriches, NY",True,1087 Atlantic L4150
+1610,"Shoreham, NY",True,1087 Atlantic L4150
+1611,"East Moriches, NY",True,1087 Atlantic L4150
+1612,"East Quogue, NY",True,1087 Atlantic L4150
+1613,"Yaphank, NY",True,1087 Atlantic L4150
+1614,"Calverton, NY",True,1087 Atlantic L4150
+1615,"Wading River, NY",True,1087 Atlantic L4150
+1616,"Southold, NY",True,1087 Atlantic L4150
+1617,"Centerport, NY",True,1087 Atlantic L4150
+1618,"Moriches, NY",True,1087 Atlantic L4150
+1619,"Cutchogue, NY",True,1087 Atlantic L4150
+1620,"Montauk, NY",True,873 Atlantic L4150
+1621,"Eastport, NY",True,1087 Atlantic L4150
+1622,"Mattituck, NY",True,1087 Atlantic L4150
+1623,"Greenport, NY",True,1087 Atlantic L4150
+1624,"Greenport, NY",True,1087 Atlantic L4150
+1625,"Greenport, NY",True,1087 Atlantic L4150
+1626,"Greenport, NY",True,1087 Atlantic L4150
+1627,"Brookhaven, NY",True,1087 Atlantic L4150
+1628,"Cold Spring Harbor, NY",True,1087 Atlantic L4150
+1629,"Westhampton Beach, NY",True,1087 Atlantic L4150
+1630,"Westhampton, NY",True,1087 Atlantic L4150
+1631,"Eatons Neck, NY",True,1087 Atlantic L4150
+1632,"Head of the Harbor, NY",True,1087 Atlantic L4150
+1633,"Nissequogue, NY",True,1087 Atlantic L4150
+1634,"Water Mill, NY",True,1087 Atlantic L4150
+1635,"North Haven, NY",True,1087 Atlantic L4150
+1636,"Laurel, NY",True,1087 Atlantic L4150
+1637,"East Marion, NY",True,1087 Atlantic L4150
+1638,"Bridgehampton, NY",True,1087 Atlantic L4150
+1639,"Orient, NY",True,1087 Atlantic L4150
+1640,"Clifton Park, NY",False,
+1641,"Saratoga Springs, NY",False,
+1642,"Malta, NY",False,
+1643,"Wilton, NY",False,
+1644,"Halfmoon, NY",False,
+1645,"Greenfield Center, NY",False,
+1646,"Ballston Spa, NY",False,
+1647,"Mechanicville, NY",False,
+1648,"Northumberland, NY",False,
+1649,"Charlton, NY",False,
+1650,"South Glens Falls, NY",False,
+1651,"Edinburg, NY",False,
+1652,"Country Knolls, NY",False,
+1653,"Okeechobee, FL",False,
+1654,"Sherman, TX",False,
+1655,"Denison, TX",False,
+1656,"Pottsboro, TX",False,
+1657,"Van Alstyne, TX",False,
+1658,"Bells, TX",False,
+1659,"Collinsville, TX",False,
+1660,"Whitesboro, TX",False,
+1661,"Howe, TX",False,
+1662,"Sadler, TX",False,
+1663,"Tioga, TX",False,
+1664,"Crestview, FL",False,
+1665,"Niceville, FL",True,4212 Gulf L4150
+1666,"Wright, FL",True,4212 Gulf L4150
+1667,"Destin, FL",True,4212 Gulf L4150
+1668,"Fort Walton Beach, FL",True,4212 Gulf L4150
+1669,"Mary Esther, FL",True,4198 Gulf L4150
+1670,"Shalimar, FL",True,4212 Gulf L4150
+1671,"Holt, FL",False,
+1672,"Baker, FL",False,
+1673,"Ocean City, FL",True,4212 Gulf L4150
+1674,"Valparaiso, FL",True,4212 Gulf L4150
+1675,"Wilkes-Barre, PA",False,
+1676,"Hazleton, PA",False,
+1677,"Mountain Top, PA",False,
+1678,"Back Mountain, PA",False,
+1679,"Kingston, PA",False,
+1680,"Nanticoke, PA",False,
+1681,"Plains, PA",False,
+1682,"Swoyersville, PA",False,
+1683,"Edwardsville, PA",False,
+1684,"Larksville, PA",False,
+1685,"West Pittston, PA",False,
+1686,"Duryea, PA",False,
+1687,"Forty Fort, PA",False,
+1688,"Freeland, PA",False,
+1689,"Wyoming, PA",False,
+1690,"Luzerne, PA",False,
+1691,"West Wyoming, PA",False,
+1692,"Dallas, PA",False,
+1693,"Harveys Lake, PA",False,
+1694,"Hunlock, PA",False,
+1695,"Ashley, PA",False,
+1696,"Dupont, PA",False,
+1697,"Avoca, PA",False,
+1698,"Glen Lyon, PA",False,
+1699,"Laflin, PA",False,
+1700,"Hughestown, PA",False,
+1701,"White Haven, PA",False,
+1702,"Norwich, CT",False,
+1703,"New London, CT",True,869 Atlantic L4150
+1704,"Pawcatuck, CT",True,869 Atlantic L4150
+1705,"Old Lyme, CT",True,749 Atlantic L4150
+1706,"Lebanon, CT",False,
+1707,"Niantic, CT",True,869 Atlantic L4150
+1708,"North Stonington, CT",True,1008 Atlantic L4150
+1709,"Salem, CT",False,
+1710,"Long Hill, CT",True,1058 Atlantic L4150
+1711,"Mystic, CT",True,869 Atlantic L4150
+1712,"Old Mystic, CT",True,869 Atlantic L4150
+1713,"Voluntown, CT",False,
+1714,"Franklin, CT",False,
+1715,"Noank, CT",True,869 Atlantic L4150
+1716,"Groton Long Point, CT",True,869 Atlantic L4150
+1717,"Eureka, CA",True,1998 Pacific L4150
+1718,"Arcata, CA",True,1998 Pacific L4150
+1719,"McKinleyville, CA",True,1908 Pacific L4150
+1720,"Fortuna, CA",True,1998 Pacific L4150
+1721,"Rio Dell, CA",False,
+1722,"Trinidad, CA",True,1914 Pacific L4150
+1723,"Ferndale, CA",True,1998 Pacific L4150
+1724,"Elkton, MD",True,670 Atlantic L4150
+1725,"North East, MD",True,670 Atlantic L4150
+1726,"Rising Sun, MD",False,
+1727,"Port Deposit, MD",True,670 Atlantic L4150
+1728,"Perryville, MD",True,670 Atlantic L4150
+1729,"Conowingo, MD",False,
+1730,"Chesapeake City, MD",True,670 Atlantic L4150
+1731,"Colora, MD",True,670 Atlantic L4150
+1732,"Earleville, MD",True,670 Atlantic L4150
+1733,"Warwick, MD",False,
+1734,"Idaho Falls, ID",False,
+1735,"Ammon, ID",False,
+1736,"State College, PA",False,
+1737,"Park Forest Village, PA",False,
+1738,"Bellefonte, PA",False,
+1739,"Zion, PA",False,
+1740,"Philipsburg, PA",False,
+1741,"Boalsburg, PA",False,
+1742,"Pleasant Gap, PA",False,
+1743,"Houserville, PA",False,
+1744,"Stormstown, PA",False,
+1745,"Grass Valley, CA",False,
+1746,"Truckee, CA",False,
+1747,"Nevada City, CA",False,
+1748,"Penn Valley, CA",False,
+1749,"Rough and Ready, CA",False,
+1750,"Kalispell, MT",False,
+1751,"Whitefish, MT",False,
+1752,"Columbia Falls, MT",False,
+1753,"Bigfork, MT",False,
+1754,"Amherst, MA",False,
+1755,"South Hadley, MA",False,
+1756,"Easthampton, MA",False,
+1757,"Northampton, MA",False,
+1758,"Southampton, MA",False,
+1759,"Hadley, MA",False,
+1760,"Williamsburg, MA",False,
+1761,"Huntington, MA",False,
+1762,"Westhampton, MA",False,
+1763,"Pelham, MA",False,
+1764,"Goshen, MA",False,
+1765,"Chesterfield, MA",False,
+1766,"Naples, FL",True,4148 Gulf L4150
+1767,"Golden Gate, FL",True,4148 Gulf L4150
+1768,"Immokalee, FL",False,
+1769,"Lely Resort, FL",True,4148 Gulf L4150
+1770,"Lely, FL",True,4148 Gulf L4150
+1771,"Orangetree, FL",False,
+1772,"Vineyards, FL",True,4148 Gulf L4150
+1773,"Moses Lake, WA",False,
+1774,"Quincy, WA",False,
+1775,"Ephrata, WA",False,
+1776,"Royal City, WA",False,
+1777,"Warden, WA",False,
+1778,"Grand Coulee, WA",False,
+1779,"Coulee City, WA",False,
+1780,"Electric City, WA",False,
+1781,"Manitowoc, WI",True,3711 Great Lakes L4150
+1782,"Two Rivers, WI",True,3711 Great Lakes L4150
+1783,"Mishicot, WI",True,3711 Great Lakes L4150
+1784,"Whitelaw, WI",True,3711 Great Lakes L4150
+1785,"Newton, WI",True,3711 Great Lakes L4150
+1786,"Valders, WI",False,
+1787,"Kiel, WI",False,
+1788,"Cleveland, WI",True,3711 Great Lakes L4150
+1789,"Reedsville, WI",False,
+1790,"Maribel, WI",False,
+1791,"Lenoir, NC",False,
+1792,"Sawmills, NC",False,
+1793,"Gamewell, NC",False,
+1794,"Hudson, NC",False,
+1795,"Cajahs Mountain, NC",False,
+1796,"Collettsville, NC",False,
+1797,"Northlakes, NC",False,
+1798,"Wenatchee, WA",False,
+1799,"Cashmere, WA",False,
+1800,"Leavenworth, WA",False,
+1801,"Manson, WA",False,
+1802,"Entiat, WA",False,
+1803,"Malaga, WA",False,
+1804,"Peshastin, WA",False,
+1805,"Torrington, CT",False,
+1806,"Watertown, CT",False,
+1807,"Woodbury, CT",False,
+1808,"Winsted, CT",False,
+1809,"Harwinton, CT",False,
+1810,"New Hartford, CT",False,
+1811,"Thomaston, CT",False,
+1812,"Canaan, CT",False,
+1813,"Bethlehem, CT",False,
+1814,"Barkhamsted, CT",False,
+1815,"Goshen, CT",False,
+1816,"Morris, CT",False,
+1817,"Roxbury, CT",False,
+1818,"Sharon, CT",False,
+1819,"Bridgewater, CT",False,
+1820,"Salisbury, CT",False,
+1821,"Norfolk, CT",False,
+1822,"Warren, CT",False,
+1823,"Kent, CT",False,
+1824,"Washington, CT",False,
+1825,"Plymouth, CT",False,
+1826,"New Preston, CT",False,
+1827,"Colebrook, CT",False,
+1828,"Bluffton, SC",True,149 Atlantic L4150
+1829,"Hilton Head Island, SC",True,149 Atlantic L4150
+1830,"Okatie, SC",False,
+1831,"Burton, SC",True,132 Atlantic L4150
+1832,"Laurel Bay, SC",True,132 Atlantic L4150
+1833,"Port Royal, SC",True,130 Atlantic L4150
+1834,"Shell Point, SC",True,149 Atlantic L4150
+1835,"Seabrook, SC",True,1069 Atlantic L4150
+1836,"Fond du Lac, WI",False,
+1837,"Waupun, WI",False,
+1838,"Eden, WI",False,
+1839,"Malone, WI",False,
+1840,"Ripon, WI",False,
+1841,"North Fond du Lac, WI",False,
+1842,"Oakfield, WI",False,
+1843,"Saint Cloud, WI",False,
+1844,"Eldorado, WI",False,
+1845,"Mount Calvary, WI",False,
+1846,"Rosendale, WI",False,
+1847,"Campbellsport, WI",False,
+1848,"Niles, MI",False,
+1849,"Saint Joseph, MI",True,3705 Great Lakes L4150
+1850,"Fair Plain, MI",True,3705 Great Lakes L4150
+1851,"Watervliet, MI",True,3705 Great Lakes L4150
+1852,"Eau Claire, MI",False,
+1853,"Buchanan, MI",False,
+1854,"Berrien Center, MI",False,
+1855,"Berrien Springs, MI",False,
+1856,"Bridgman, MI",True,3705 Great Lakes L4150
+1857,"Hot Springs, AR",False,
+1858,"Piney, AR",False,
+1859,"Royal, AR",False,
+1860,"Rockwell, AR",False,
+1861,"Pearcy, AR",False,
+1862,"Lake Hamilton, AR",False,
+1863,"Oxford, MS",False,
+1864,"Galesburg, IL",False,
+1865,"Knoxville, IL",False,
+1866,"Dahinda, IL",False,
+1867,"Jackson, MI",False,
+1868,"Brooklyn, MI",False,
+1869,"Springport, MI",False,
+1870,"Spring Arbor, MI",False,
+1871,"Concord, MI",False,
+1872,"Rives Junction, MI",False,
+1873,"Clarklake, MI",False,
+1874,"Michigan Center, MI",False,
+1875,"Vandercook Lake, MI",False,
+1876,"Pleasant Lake, MI",False,
+1877,"Horton, MI",False,
+1878,"Hanover, MI",False,
+1879,"Munith, MI",False,
+1880,"Lewiston, ID",False,
+1881,"Oak Harbor, WA",True,3213 Pacific L4150
+1882,"Coupeville, WA",True,2029 Pacific L4150
+1883,"Clinton, WA",True,2029 Pacific L4150
+1884,"Langley, WA",True,3240 Pacific L4150
+1885,"Greenbank, WA",True,3240 Pacific L4150
+1886,"Freeland, WA",True,3240 Pacific L4150
+1887,"Elizabethton, TN",False,
+1888,"Roan Mountain, TN",False,
+1889,"Hampton, TN",False,
+1890,"Watauga, TN",False,
+1891,"Richfield, WI",False,
+1892,"Trenton, WI",False,
+1893,"Barton, WI",False,
+1894,"Farmington, WI",False,
+1895,"Slinger, WI",False,
+1896,"Addison, WI",False,
+1897,"Wayne, WI",False,
+1898,"Coolbaugh, PA",False,
+1899,"East Stroudsburg, PA",False,
+1900,"Jackson, PA",False,
+1901,"Arlington Heights, PA",False,
+1902,"Stroudsburg, PA",False,
+1903,"Mount Pocono, PA",False,
+1904,"Pocono Lake, PA",False,
+1905,"Brodheadsville, PA",False,
+1906,"Pocono Pines, PA",False,
+1907,"Mountainhome, PA",False,
+1908,"Jamestown, NY",False,
+1909,"Hanover, NY",False,
+1910,"Busti, NY",False,
+1911,"Sheridan, NY",True,3682 Great Lakes L4150
+1912,"Poland, NY",False,
+1913,"Falconer, NY",False,
+1914,"Lakewood, NY",False,
+1915,"French Creek, NY",False,
+1916,"Kiantone, NY",False,
+1917,"Mina, NY",False,
+1918,"Silver Creek, NY",True,3682 Great Lakes L4150
+1919,"Frewsburg, NY",False,
+1920,"Mayville, NY",True,3682 Great Lakes L4150
+1921,"Shelton, WA",False,
+1922,"Belfair, WA",False,
+1923,"Allyn, WA",False,
+1924,"Tahuya, WA",False,
+1925,"Union, WA",False,
+1926,"Grapeview, WA",False,
+1927,"Lilliwaup, WA",False,
+1928,"Hoodsport, WA",False,
+1929,"El Dorado Hills, CA",False,
+1930,"South Lake Tahoe, CA",False,
+1931,"Shingle Springs, CA",False,
+1932,"Placerville, CA",False,
+1933,"Pollock Pines, CA",False,
+1934,"Diamond Springs, CA",False,
+1935,"El Dorado, CA",False,
+1936,"Camino, CA",False,
+1937,"Georgetown, CA",False,
+1938,"Tahoma, CA",False,
+1939,"Champion, NY",False,
+1940,"Carthage, NY",False,
+1941,"Henderson, NY",True,3757 Great Lakes L4150
+1942,"Orleans, NY",False,
+1943,"West Carthage, NY",False,
+1944,"Sackets Harbor, NY",True,3760 Great Lakes L4150
+1945,"Dexter, NY",True,3759 Great Lakes L4150
+1946,"Montrose, CO",False,
+1947,"Olathe, CO",False,
+1948,"Greenville, TX",False,
+1949,"Commerce, TX",False,
+1950,"Lone Oak, TX",False,
+1951,"Wolfe City, TX",False,
+1952,"West Tawakoni, TX",False,
+1953,"Panama City, FL",True,4130 Gulf L4150
+1954,"Lynn Haven, FL",True,4130 Gulf L4150
+1955,"Panama City Beach, FL",True,4130 Gulf L4150
+1956,"Callaway, FL",True,4130 Gulf L4150
+1957,"Springfield, FL",True,4130 Gulf L4150
+1958,"Parker, FL",True,4130 Gulf L4150
+1959,"Youngstown, FL",False,
+1960,"Fountain, FL",False,
+1961,"Wailuku, HI",True,1971 Pacific L4150
+1962,"Kahului, HI",True,1971 Pacific L4150
+1963,"Kihei, HI",True,1755 Pacific L4150
+1964,"Lahaina, HI",True,1755 Pacific L4150
+1965,"Makawao, HI",True,1755 Pacific L4150
+1966,"Haiku, HI",True,1755 Pacific L4150
+1967,"Hana, HI",True,1755 Pacific L4150
+1968,"Paia, HI",True,1755 Pacific L4150
+1969,"Watertown, WI",False,
+1970,"Jefferson, WI",False,
+1971,"Lake Mills, WI",False,
+1972,"Fort Atkinson, WI",False,
+1973,"Waterloo, WI",False,
+1974,"Palmyra, WI",False,
+1975,"Lake Koshkonong, WI",False,
+1976,"Helenville, WI",False,
+1977,"Johnson Creek, WI",False,
+1978,"Sullivan, WI",False,
+1979,"Ixonia, WI",False,
+1980,"Lake Ripley, WI",False,
+1981,"Durango, CO",False,
+1982,"Bayfield, CO",False,
+1983,"Ignacio, CO",False,
+1984,"Hesperus, CO",False,
+1985,"Nacogdoches, TX",False,
+1986,"Beeville, TX",False,
+1987,"Inverness, FL",False,
+1988,"Homosassa, FL",True,4126 Gulf L4150
+1989,"Hernando, FL",False,
+1990,"Crystal River, FL",True,4128 Gulf L4150
+1991,"Floral City, FL",False,
+1992,"Beverly Hills, FL",False,
+1993,"Lecanto, FL",False,
+1994,"Ellington, CT",False,
+1995,"Tolland, CT",False,
+1996,"Coventry, CT",False,
+1997,"Somers, CT",False,
+1998,"Columbia, CT",False,
+1999,"Hebron, CT",False,
+2000,"Bolton, CT",False,
+2001,"Stafford Springs, CT",False,
+2002,"Andover, CT",False,
+2003,"South Coventry, CT",False,
+2004,"Wetumpka, AL",False,
+2005,"Millbrook, AL",False,
+2006,"Deatsville, AL",False,
+2007,"Elmore, AL",False,
+2008,"Titus, AL",False,
+2009,"Hermiston, OR",False,
+2010,"Pendleton, OR",False,
+2011,"Umatilla, OR",False,
+2012,"Stanfield, OR",False,
+2013,"Pilot Rock, OR",False,
+2014,"Weston, OR",False,
+2015,"Ukiah, CA",False,
+2016,"Willits, CA",False,
+2017,"Fort Bragg, CA",True,2721 Pacific L4150
+2018,"Redwood Valley, CA",False,
+2019,"Mendocino, CA",True,2723 Pacific L4150
+2020,"Gualala, CA",True,2882 Pacific L4150
+2021,"Auburn, NY",False,
+2022,"Sennett, NY",False,
+2023,"Fleming, NY",False,
+2024,"Ira, NY",False,
+2025,"Melrose Park, NY",False,
+2026,"Throop, NY",False,
+2027,"Genoa, NY",False,
+2028,"Sterling, NY",True,3692 Great Lakes L4150
+2029,"Owasco, NY",False,
+2030,"Conquest, NY",False,
+2031,"Fair Haven, NY",True,3692 Great Lakes L4150
+2032,"Weedsport, NY",False,
+2033,"Lufkin, TX",False,
+2034,"Huntington, TX",False,
+2035,"Hudson, TX",False,
+2036,"Live Oak, FL",False,
+2037,"Branford, FL",False,
+2038,"Eustis, FL",False,
+2039,"Mount Dora, FL",False,
+2040,"Tavares, FL",False,
+2041,"Lady Lake, FL",False,
+2042,"Fruitland Park, FL",False,
+2043,"Sorrento, FL",False,
+2044,"Clermont, FL",False,
+2045,"Leesburg, FL",False,
+2046,"Umatilla, FL",False,
+2047,"Howey in the Hills, FL",False,
+2048,"Grand Island, FL",False,
+2049,"Montverde, FL",False,
+2050,"Astatula, FL",False,
+2051,"Yalaha, FL",False,
+2052,"Altoona, FL",False,
+2053,"Silver Lake, FL",False,
+2054,"Groveland, FL",False,
+2055,"Mascotte, FL",False,
+2056,"Fairhope, AL",True,4169 Gulf L4150
+2057,"Daphne, AL",True,4150 Gulf L4150
+2058,"Foley, AL",True,4169 Gulf L4150
+2059,"Bay Minette, AL",False,
+2060,"Robertsdale, AL",False,
+2061,"Gulf Shores, AL",True,4169 Gulf L4150
+2062,"Loxley, AL",True,4169 Gulf L4150
+2063,"Spanish Fort, AL",True,4150 Gulf L4150
+2064,"Silverhill, AL",True,4169 Gulf L4150
+2065,"Orange Beach, AL",True,4205 Gulf L4150
+2066,"Summerdale, AL",False,
+2067,"Lillian, AL",True,4205 Gulf L4150
+2068,"Elberta, AL",True,4169 Gulf L4150
+2069,"Perdido, AL",False,
+2070,"Stapleton, AL",False,
+2071,"Seminole, AL",False,
+2072,"Albertville, AL",False,
+2073,"Arab, AL",False,
+2074,"Guntersville, AL",False,
+2075,"Boaz, AL",False,
+2076,"Union Grove, AL",False,
+2077,"Grant, AL",False,
+2078,"Dayton, TX",False,
+2079,"Cleveland, TX",False,
+2080,"Liberty, TX",False,
+2081,"Fernandina Beach, FL",True,980 Atlantic L4150
+2082,"Callahan, FL",False,
+2083,"Yulee, FL",True,980 Atlantic L4150
+2084,"Hilliard, FL",False,
+2085,"Ithaca, NY",False,
+2086,"Danby, NY",False,
+2087,"Newfield, NY",False,
+2088,"Enfield, NY",False,
+2089,"Caroline, NY",False,
+2090,"Trumansburg, NY",False,
+2091,"Palm City, FL",True,677 Atlantic L4150
+2092,"Stuart, FL",True,677 Atlantic L4150
+2093,"Hobe Sound, FL",True,162 Atlantic L4150
+2094,"Jensen Beach, FL",True,677 Atlantic L4150
+2095,"Port Salerno, FL",True,677 Atlantic L4150
+2096,"North River Shores, FL",True,677 Atlantic L4150
+2097,"Sewalls Point, FL",True,677 Atlantic L4150
+2098,"Rio, FL",True,677 Atlantic L4150
+2099,"Boone, NC",False,
+2100,"Blowing Rock, NC",False,
+2101,"Todd, NC",False,
+2102,"Banner Elk, NC",False,
+2103,"Zionville, NC",False,
+2104,"Vilas, NC",False,
+2105,"Sugar Grove, NC",False,
+2106,"Beech Mountain, NC",False,
+2107,"Seven Devils, NC",False,
+2108,"Beekmantown, NY",False,
+2109,"Chazy, NY",False,
+2110,"Schuyler Falls, NY",False,
+2111,"Ellenburg, NY",False,
+2112,"Morrisonville, NY",False,
+2113,"Rouses Point, NY",False,
+2114,"Keeseville, NY",False,
+2115,"Cumberland Head, NY",False,
+2116,"Fulton, NY",False,
+2117,"Fulton, NY",False,
+2118,"Fulton, NY",False,
+2119,"Fulton, NY",False,
+2120,"Scriba, NY",True,3658 Great Lakes L4150
+2121,"Volney, NY",False,
+2122,"Palermo, NY",False,
+2123,"Richland, NY",True,3658 Great Lakes L4150
+2124,"New Haven, NY",True,3658 Great Lakes L4150
+2125,"Phoenix, NY",False,
+2126,"Pulaski, NY",True,3658 Great Lakes L4150
+2127,"Central Square, NY",False,
+2128,"Hastings, NY",False,
+2129,"Ellensburg, WA",False,
+2130,"Cle Elum, WA",False,
+2131,"Roslyn, WA",False,
+2132,"Superior, WI",True,3639 Great Lakes L4150
+2133,"Lake Nebagamon, WI",False,
+2134,"Gordon, WI",False,
+2135,"Davenport, NY",False,
+2136,"Roxbury, NY",False,
+2137,"Kingston, NY",False,
+2138,"Wawarsing, NY",False,
+2139,"Marlboro, NY",False,
+2140,"Highland, NY",False,
+2141,"Highland, NY",False,
+2142,"Highland, NY",False,
+2143,"Highland, NY",False,
+2144,"Lloyd, NY",False,
+2145,"Marbletown, NY",False,
+2146,"Milton, NY",False,
+2147,"Lake Katrine, NY",False,
+2148,"Port Ewen, NY",False,
+2149,"Ellenville, NY",False,
+2150,"Lincoln Park, NY",True,3659 Great Lakes L4150
+2151,"Kerhonkson, NY",False,
+2152,"Tillson, NY",False,
+2153,"Stone Ridge, NY",False,
+2154,"Shokan, NY",False,
+2155,"Phoenicia, NY",False,
+2156,"Sandusky, OH",True,3688 Great Lakes L4150
+2157,"Huron, OH",True,3686 Great Lakes L4150
+2158,"Castalia, OH",True,3688 Great Lakes L4150
+2159,"Milan, OH",True,3686 Great Lakes L4150
+2160,"Berlin Heights, OH",True,3686 Great Lakes L4150
+2161,"Kelleys Island, OH",True,3742 Great Lakes L4150
+2162,"Cibolo, TX",False,
+2163,"Schertz, TX",False,
+2164,"McQueeney, TX",False,
+2165,"Red Bluff, CA",False,
+2166,"Corning, CA",False,
+2167,"Cottonwood, CA",False,
+2168,"Los Molinos, CA",False,
+2169,"Centralia, WA",False,
+2170,"Chehalis, WA",False,
+2171,"Toledo, WA",False,
+2172,"Onalaska, WA",False,
+2173,"Napavine, WA",False,
+2174,"Packwood, WA",False,
+2175,"Hudson, MI",False,
+2176,"Clinton, MI",False,
+2177,"Blissfield, MI",False,
+2178,"Tecumseh, MI",False,
+2179,"Morenci, MI",False,
+2180,"Onsted, MI",False,
+2181,"Cement City, MI",False,
+2182,"Manitou Beach, MI",False,
+2183,"Palmyra, MI",False,
+2184,"Deerfield, MI",False,
+2185,"Addison, MI",False,
+2186,"Sonora, CA",False,
+2187,"Jamestown, CA",False,
+2188,"Tuolumne, CA",False,
+2189,"Groveland, CA",False,
+2190,"Twain Harte, CA",False,
+2191,"La Grange, CA",False,
+2192,"Long Barn, CA",False,
+2193,"Soulsbyville, CA",False,
+2194,"Elk River, MN",False,
+2195,"Big Lake, MN",False,
+2196,"Princeton, MN",False,
+2197,"Becker, MN",False,
+2198,"Clear Lake, MN",False,
+2199,"Coos Bay, OR",True,1997 Pacific L4150
+2200,"North Bend, OR",True,1997 Pacific L4150
+2201,"Coquille, OR",False,
+2202,"Bandon, OR",True,1538 Pacific L4150
+2203,"Myrtle Point, OR",False,
+2204,"Lakeside, OR",True,3392 Pacific L4150
+2205,"Palatka, FL",False,
+2206,"Hawthorne, FL",False,
+2207,"Interlachen, FL",False,
+2208,"East Palatka, FL",False,
+2209,"Crescent City, FL",False,
+2210,"Satsuma, FL",False,
+2211,"Melrose, FL",False,
+2212,"Florahome, FL",False,
+2213,"Pomona Park, FL",False,
+2214,"Welaka, FL",False,
+2215,"San Mateo, FL",False,
+2216,"Helena, MT",False,
+2217,"East Helena, MT",False,
+2218,"Americus, GA",False,
+2219,"Bastrop, TX",False,
+2220,"Smithville, TX",False,
+2221,"Paige, TX",False,
+2222,"Dahlonega, GA",False,
+2223,"Albemarle, NC",False,
+2224,"Norwood, NC",False,
+2225,"Stanfield, NC",False,
+2226,"New London, NC",False,
+2227,"Locust, NC",False,
+2228,"Richfield, NC",False,
+2229,"Oakboro, NC",False,
+2230,"Nogales, AZ",False,
+2231,"Rio Rico, AZ",False,
+2232,"Patagonia, AZ",False,
+2233,"Sonoita, AZ",False,
+2234,"Tubac, AZ",False,
+2235,"Lucedale, MS",False,
+2236,"Georgetown, SC",True,984 Atlantic L4150
+2237,"Pawleys Island, SC",True,984 Atlantic L4150
+2238,"Andrews, SC",False,
+2239,"Warsaw, IN",False,
+2240,"Mentone, IN",False,
+2241,"Winona Lake, IN",False,
+2242,"Claypool, IN",False,
+2243,"Mequon, WI",True,3666 Great Lakes L4150
+2244,"Thiensville, WI",True,3666 Great Lakes L4150
+2245,"Seneca, SC",False,
+2246,"Westminster, SC",False,
+2247,"Walhalla, SC",False,
+2248,"Salem, SC",False,
+2249,"Fair Play, SC",False,
+2250,"West Union, SC",False,
+2251,"Tamassee, SC",False,
+2252,"Brenham, TX",False,
+2253,"Brenham, TX",False,
+2254,"Brenham, TX",False,
+2255,"Burton, TX",False,
+2256,"Burton, TX",False,
+2257,"Burton, TX",False,
+2258,"Easton, MD",True,1040 Atlantic L4150
+2259,"Saint Michaels, MD",True,901 Atlantic L4150
+2260,"Cordova, MD",False,
+2261,"Tilghman, MD",True,901 Atlantic L4150
+2262,"Bozman, MD",True,901 Atlantic L4150
+2263,"Oxford, MD",True,1040 Atlantic L4150
+2264,"Coldwater, MI",False,
+2265,"Bronson, MI",False,
+2266,"Quincy, MI",False,
+2267,"Union City, MI",False,
+2268,"Crawfordville, FL",True,4132 Gulf L4150
+2269,"Sopchoppy, FL",True,4132 Gulf L4150
+2270,"Panacea, FL",True,4132 Gulf L4150
+2271,"Beaver Dam, WI",False,
+2272,"Horicon, WI",False,
+2273,"Randolph, WI",False,
+2274,"Juneau, WI",False,
+2275,"Fox Lake, WI",False,
+2276,"Lomira, WI",False,
+2277,"Neosho, WI",False,
+2278,"Brownsville, WI",False,
+2279,"Rubicon, WI",False,
+2280,"Reeseville, WI",False,
+2281,"Theresa, WI",False,
+2282,"Mayville, WI",False,
+2283,"Hustisford, WI",False,
+2284,"Sparta, NJ",False,
+2285,"Hopatcong, NJ",False,
+2286,"Newton, NJ",False,
+2287,"Franklin, NJ",False,
+2288,"Stillwater, NJ",False,
+2289,"Montague, NJ",False,
+2290,"Branchville, NJ",False,
+2291,"Stanhope, NJ",False,
+2292,"Fredon, NJ",False,
+2293,"Hamburg, NJ",False,
+2294,"Highland Lake, NJ",False,
+2295,"Lafayette, NJ",False,
+2296,"Ogdensburg, NJ",False,
+2297,"Sussex, NJ",False,
+2298,"Vernon Valley, NJ",False,
+2299,"Crandon Lakes, NJ",False,
+2300,"North Kingstown, RI",True,859 Atlantic L4150
+2301,"Narragansett, RI",True,859 Atlantic L4150
+2302,"Charlestown, RI",True,1008 Atlantic L4150
+2303,"Exeter, RI",False,
+2304,"Kingston, RI",True,859 Atlantic L4150
+2305,"Ashaway, RI",True,1008 Atlantic L4150
+2306,"Roxboro, NC",False,
+2307,"Timberlake, NC",False,
+2308,"Hurdle Mills, NC",False,
+2309,"Gardnerville, NV",False,
+2310,"Minden, NV",False,
+2311,"Wellington, NV",False,
+2312,"Zephyr Cove, NV",False,
+2313,"Genoa, NV",False,
+2314,"Stateline, NV",False,
+2315,"Farmington, NY",False,
+2316,"Gorham, NY",False,
+2317,"East Bloomfield, NY",False,
+2318,"West Bloomfield, NY",False,
+2319,"Bristol, NY",False,
+2320,"South Bristol, NY",False,
+2321,"Canadice, NY",False,
+2322,"Clifton Springs, NY",False,
+2323,"Aberdeen, WA",True,1985 Pacific L4150
+2324,"Montesano, WA",False,
+2325,"Elma, WA",False,
+2326,"Hoquiam, WA",True,3098 Pacific L4150
+2327,"Oakville, WA",False,
+2328,"McCleary, WA",False,
+2329,"Grayland, WA",True,2616 Pacific L4150
+2330,"Ocean Shores, WA",True,3098 Pacific L4150
+2331,"Westport, WA",True,2020 Pacific L4150
+2332,"Cosmopolis, WA",True,1985 Pacific L4150
+2333,"Pacific Beach, WA",True,3096 Pacific L4150
+2334,"Cleveland, GA",False,
+2335,"Vidor, TX",False,
+2336,"Orange, TX",False,
+2337,"Bridge City, TX",False,
+2338,"Mauriceville, TX",False,
+2339,"Susanville, CA",False,
+2340,"Janesville, CA",False,
+2341,"Saville, PA",False,
+2342,"Marysville, PA",False,
+2343,"Duncannon, PA",False,
+2344,"Newport, PA",False,
+2345,"Du Bois, PA",False,
+2346,"Clearfield, PA",False,
+2347,"Decatur, PA",False,
+2348,"Curwensville, PA",False,
+2349,"Osceola Mills, PA",False,
+2350,"Plymptonville, PA",False,
+2351,"Chambersburg, PA",False,
+2352,"Waynesboro, PA",False,
+2353,"Quincy, PA",False,
+2354,"Greencastle, PA",False,
+2355,"Fayetteville, PA",False,
+2356,"Wayne Heights, PA",False,
+2357,"Mont Alto, PA",False,
+2358,"Columbia City, IN",False,
+2359,"Churubusco, IN",False,
+2360,"Larwill, IN",False,
+2361,"Floresville, TX",False,
+2362,"Carmel, NY",False,
+2363,"Putnam Valley, NY",False,
+2364,"Lake Carmel, NY",False,
+2365,"Patterson, NY",False,
+2366,"Cold Spring, NY",False,
+2367,"Brewster Hill, NY",False,
+2368,"Perry, FL",False,
+2369,"Steinhatchee, FL",True,3906 Gulf L4150
+2370,"East Falmouth, MA",True,675 Atlantic L4150
+2371,"Dennis, MA",True,675 Atlantic L4150
+2372,"Mashpee, MA",True,675 Atlantic L4150
+2373,"Harwich, MA",True,675 Atlantic L4150
+2374,"Chatham, MA",True,675 Atlantic L4150
+2375,"Forestdale, MA",True,675 Atlantic L4150
+2376,"Eastham, MA",True,675 Atlantic L4150
+2377,"East Sandwich, MA",True,675 Atlantic L4150
+2378,"North Falmouth, MA",True,675 Atlantic L4150
+2379,"Yarmouth, MA",True,675 Atlantic L4150
+2380,"Wellfleet, MA",True,675 Atlantic L4150
+2381,"Bourne, MA",True,675 Atlantic L4150
+2382,"Harwich Port, MA",True,675 Atlantic L4150
+2383,"Truro, MA",True,675 Atlantic L4150
+2384,"Barnstable, MA",True,675 Atlantic L4150
+2385,"West Harwich, MA",True,675 Atlantic L4150
+2386,"Woods Hole, MA",True,675 Atlantic L4150
+2387,"Picayune, MS",False,
+2388,"Carriere, MS",False,
+2389,"Cortland, NY",False,
+2390,"Virgil, NY",False,
+2391,"Munsons Corners, NY",False,
+2392,"Silver City, NM",False,
+2393,"Hurley, NM",False,
+2394,"Berlin, MD",True,975 Atlantic L4150
+2395,"Pocomoke City, MD",True,1068 Atlantic L4150
+2396,"Ocean City, MD",True,1056 Atlantic L4150
+2397,"Snow Hill, MD",False,
+2398,"Newark, MD",True,975 Atlantic L4150
+2399,"Whaleyville, MD",False,
+2400,"Columbia, MS",False,
+2401,"Key West, FL",True,4382 Gulf L4150
+2402,"Key Largo, FL",True,4365 Gulf L4150
+2403,"Marathon, FL",True,4325 Gulf L4150
+2404,"Stock Island, FL",True,4348 Gulf L4150
+2405,"Big Pine Key, FL",True,4311 Gulf L4150
+2406,"Tavernier, FL",True,4365 Gulf L4150
+2407,"Summerland Key, FL",True,4337 Gulf L4150
+2408,"Islamorada, FL",True,4339 Gulf L4150
+2409,"Key Colony Beach, FL",True,4434 Gulf L4150
+2410,"Big Coppitt Key, FL",True,4348 Gulf L4150
+2411,"Barton, NY",False,
+2412,"Waverly, NY",False,
+2413,"Newport, RI",True,859 Atlantic L4150
+2414,"Portsmouth, RI",True,1007 Atlantic L4150
+2415,"Middletown, RI",True,859 Atlantic L4150
+2416,"Jamestown, RI",True,859 Atlantic L4150
+2417,"Little Compton, RI",True,1007 Atlantic L4150
+2418,"Ellijay, GA",False,
+2419,"Camden, SC",False,
+2420,"Lugoff, SC",False,
+2421,"Elgin, SC",False,
+2422,"Windber, PA",False,
+2423,"Meyersdale, PA",False,
+2424,"Berlin, PA",False,
+2425,"Central City, PA",False,
+2426,"Clewiston, FL",False,
+2427,"Turners Falls, MA",False,
+2428,"Sunderland, MA",False,
+2429,"Montague, MA",False,
+2430,"Leverett, MA",False,
+2431,"Colrain, MA",False,
+2432,"Ashfield, MA",False,
+2433,"Bernardston, MA",False,
+2434,"South Deerfield, MA",False,
+2435,"Conway, MA",False,
+2436,"Erving, MA",False,
+2437,"Shutesbury, MA",False,
+2438,"Gill, MA",False,
+2439,"Whately, MA",False,
+2440,"New Salem, MA",False,
+2441,"Bloomsburg, PA",False,
+2442,"Berwick, PA",False,
+2443,"Espy, PA",False,
+2444,"Almedia, PA",False,
+2445,"Bristol, RI",False,
+2446,"Barrington, RI",False,
+2447,"Warren, RI",False,
+2448,"Seymour, TN",False,
+2449,"Sevierville, TN",False,
+2450,"Pigeon Forge, TN",False,
+2451,"Gatlinburg, TN",False,
+2452,"Pittman Center, TN",False,
+2453,"Paris, TN",False,
+2454,"Buchanan, TN",False,
+2455,"Puryear, TN",False,
+2456,"Springville, TN",False,
+2457,"Henry, TN",False,
+2458,"Willimantic, CT",False,
+2459,"Plainfield, CT",False,
+2460,"Putnam, CT",False,
+2461,"Brooklyn, CT",False,
+2462,"Woodstock, CT",False,
+2463,"Windham, CT",False,
+2464,"Canterbury, CT",False,
+2465,"Ashford, CT",False,
+2466,"Thompson, CT",False,
+2467,"Danielson, CT",False,
+2468,"Hampton, CT",False,
+2469,"Moosup, CT",False,
+2470,"Sterling, CT",False,
+2471,"South Windham, CT",False,
+2472,"Eastford, CT",False,
+2473,"Chaplin, CT",False,
+2474,"Edmeston, NY",False,
+2475,"Cooperstown, NY",False,
+2476,"West End, NY",False,
+2477,"Madison, IN",False,
+2478,"Hanover, IN",False,
+2479,"Prineville, OR",False,
+2480,"Blairsville, GA",False,
+2481,"Suches, GA",False,
+2482,"Kapaa, HI",True,1717 Pacific L4150
+2483,"Lihue, HI",True,1717 Pacific L4150
+2484,"Kilauea, HI",True,1717 Pacific L4150
+2485,"Kalaheo, HI",True,1717 Pacific L4150
+2486,"Koloa, HI",True,1717 Pacific L4150
+2487,"Princeville, HI",True,1717 Pacific L4150
+2488,"Hanapepe, HI",True,1717 Pacific L4150
+2489,"Astoria, OR",True,2121 Pacific L4150
+2490,"Seaside, OR",True,2012 Pacific L4150
+2491,"Warrenton, OR",True,2020 Pacific L4150
+2492,"Arch Cape, OR",True,1994 Pacific L4150
+2493,"Gearhart, OR",True,2012 Pacific L4150
+2494,"Cannon Beach, OR",True,1994 Pacific L4150
+2495,"Tolovana Park, OR",True,1994 Pacific L4150
+2496,"Jacksboro, TN",False,
+2497,"Jellico, TN",False,
+2498,"Caryville, TN",False,
+2499,"Duff, TN",False,
+2500,"Newport, TN",False,
+2501,"Cosby, TN",False,
+2502,"Parrottsville, TN",False,
+2503,"Hartford, TN",False,
+2504,"Bybee, TN",False,
+2505,"Greencastle, IN",False,
+2506,"Cloverdale, IN",False,
+2507,"Roachdale, IN",False,
+2508,"Fillmore, IN",False,
+2509,"Bainbridge, IN",False,
+2510,"Cleveland, MS",False,
+2511,"Gloversville, NY",False,
+2512,"Perth, NY",False,
+2513,"Oppenheim, NY",False,
+2514,"Northampton, NY",True,1087 Atlantic L4150
+2515,"Ephratah, NY",False,
+2516,"Dayton, TN",False,
+2517,"Spring City, TN",False,
+2518,"Evensville, TN",False,
+2519,"Grandview, TN",False,
+2520,"Grenada, MS",False,
+2521,"Show Low, AZ",False,
+2522,"Winslow, AZ",False,
+2523,"Snowflake, AZ",False,
+2524,"Heber, AZ",False,
+2525,"Overgaard, AZ",False,
+2526,"Great Valley, NY",False,
+2527,"Gowanda, NY",False,
+2528,"Ashford, NY",False,
+2529,"Weston Mills, NY",False,
+2530,"Dayton, NY",False,
+2531,"Steamboat Springs, CO",False,
+2532,"Hayden, CO",False,
+2533,"Oak Creek, CO",False,
+2534,"Clark, CO",False,
+2535,"Charles Town, WV",False,
+2536,"Shepherdstown, WV",False,
+2537,"Kearneysville, WV",False,
+2538,"Summit Point, WV",False,
+2539,"Ranson, WV",False,
+2540,"Shenandoah Junction, WV",False,
+2541,"Bolivar, WV",False,
+2542,"Portland, TX",False,
+2543,"Sinton, TX",False,
+2544,"Aransas Pass, TX",True,4197 Gulf L4150
+2545,"Ingleside, TX",True,4207 Gulf L4150
+2546,"Gregory, TX",False,
+2547,"Lusby, MD",True,650 Atlantic L4150
+2548,"Huntingtown, MD",True,1054 Atlantic L4150
+2549,"Prince Frederick, MD",True,1029 Atlantic L4150
+2550,"Chesapeake Beach, MD",True,1054 Atlantic L4150
+2551,"Owings, MD",True,1054 Atlantic L4150
+2552,"Saint Leonard, MD",True,650 Atlantic L4150
+2553,"Dunkirk, MD",True,1054 Atlantic L4150
+2554,"Sunderland, MD",True,1054 Atlantic L4150
+2555,"North Beach, MD",True,1054 Atlantic L4150
+2556,"Port Republic, MD",True,1029 Atlantic L4150
+2557,"Solomons, MD",True,1088 Atlantic L4150
+2558,"Dowell, MD",True,1088 Atlantic L4150
+2559,"Eatonton, GA",False,
+2560,"Elkhorn, WI",False,
+2561,"Lyons, WI",False,
+2562,"La Grange, WI",False,
+2563,"Troy, WI",False,
+2564,"Spring Prairie, WI",False,
+2565,"Como, WI",False,
+2566,"Richmond, WI",False,
+2567,"Williams Bay, WI",False,
+2568,"Potter Lake, WI",False,
+2569,"Portage, WI",False,
+2570,"Poynette, WI",False,
+2571,"Wisconsin Dells, WI",False,
+2572,"Pardeeville, WI",False,
+2573,"Cambria, WI",False,
+2574,"Columbus, WI",False,
+2575,"Fall River, WI",False,
+2576,"Lodi, WI",False,
+2577,"Rio, WI",False,
+2578,"Angola, IN",False,
+2579,"Hamilton, IN",False,
+2580,"Orland, CA",False,
+2581,"Willows, CA",False,
+2582,"Columbia, IL",False,
+2583,"Waterloo, IL",False,
+2584,"Valmeyer, IL",False,
+2585,"Glens Falls, NY",False,
+2586,"Queensbury, NY",False,
+2587,"Chester, NY",False,
+2588,"Lake Luzerne, NY",False,
+2589,"Bolton, NY",False,
+2590,"Thurman, NY",False,
+2591,"Hague, NY",False,
+2592,"Saranac Lake, NY",False,
+2593,"Harrietstown, NY",False,
+2594,"Moira, NY",False,
+2595,"Bangor, NY",False,
+2596,"Fort Covington, NY",False,
+2597,"Hornell, NY",False,
+2598,"Gang Mills, NY",False,
+2599,"Caton, NY",False,
+2600,"Pulteney, NY",False,
+2601,"Wayne, NY",False,
+2602,"Painted Post, NY",False,
+2603,"Urbana, NY",False,
+2604,"Monroe, WI",False,
+2605,"New Glarus, WI",False,
+2606,"Waupaca, WI",False,
+2607,"Weyauwega, WI",False,
+2608,"New London, WI",False,
+2609,"Manawa, WI",False,
+2610,"Iola, WI",False,
+2611,"Fort Morgan, CO",False,
+2612,"Brush, CO",False,
+2613,"Wiggins, CO",False,
+2614,"Moundsville, WV",False,
+2615,"Benwood, WV",False,
+2616,"Union, MO",False,
+2617,"Washington, MO",False,
+2618,"Pacific, MO",False,
+2619,"Labadie, MO",False,
+2620,"Berger, MO",False,
+2621,"Gray Summit, MO",False,
+2622,"Beaufort, MO",False,
+2623,"Jasper, IN",False,
+2624,"Huntingburg, IN",False,
+2625,"Celestine, IN",False,
+2626,"Ferdinand, IN",False,
+2627,"Glenwood Springs, CO",False,
+2628,"Rifle, CO",False,
+2629,"Parachute, CO",False,
+2630,"Carbondale, CO",False,
+2631,"New Castle, CO",False,
+2632,"Silt, CO",False,
+2633,"Morley, MI",False,
+2634,"Stanwood, MI",False,
+2635,"Rodney, MI",False,
+2636,"Barryton, MI",False,
+2637,"Walterboro, SC",False,
+2638,"Edisto Beach, SC",True,639 Atlantic L4150
+2639,"Rutherfordton, NC",False,
+2640,"Mooresboro, NC",False,
+2641,"Ashtabula, OH",True,3690 Great Lakes L4150
+2642,"Conneaut, OH",True,3690 Great Lakes L4150
+2643,"Jefferson, OH",False,
+2644,"Andover, OH",False,
+2645,"Geneva, OH",True,3683 Great Lakes L4150
+2646,"Orwell, OH",False,
+2647,"Rock Creek, OH",False,
+2648,"Kingsville, OH",True,3690 Great Lakes L4150
+2649,"Edgewood, OH",True,3690 Great Lakes L4150
+2650,"Williamsfield, OH",False,
+2651,"North Kingsville, OH",True,3690 Great Lakes L4150
+2652,"Roaming Shores, OH",False,
+2653,"Austinburg, OH",True,3683 Great Lakes L4150
+2654,"Geneva-on-the-Lake, OH",True,3683 Great Lakes L4150
+2655,"Effingham, IL",False,
+2656,"Teutopolis, IL",False,
+2657,"Allegan, MI",False,
+2658,"Wayland, MI",False,
+2659,"Otsego, MI",False,
+2660,"Dorr, MI",False,
+2661,"Fennville, MI",True,3676 Great Lakes L4150
+2662,"Hopkins, MI",False,
+2663,"Plainwell, MI",False,
+2664,"Hamilton, MI",False,
+2665,"Saugatuck, MI",True,3669 Great Lakes L4150
+2666,"Shelbyville, MI",False,
+2667,"Douglas, MI",True,3669 Great Lakes L4150
+2668,"Fletcher, NC",False,
+2669,"Flat Rock, NC",False,
+2670,"Hendersonville, NC",False,
+2671,"Mills River, NC",False,
+2672,"Zirconia, NC",False,
+2673,"Saluda, NC",False,
+2674,"Mountain Home, NC",False,
+2675,"Etowah, NC",False,
+2676,"Balfour, NC",False,
+2677,"East Flat Rock, NC",False,
+2678,"Laurel Park, NC",False,
+2679,"Valley Hill, NC",False,
+2680,"Horse Shoe, NC",False,
+2681,"Uniontown, PA",False,
+2682,"Redstone, PA",False,
+2683,"Masontown, PA",False,
+2684,"Springhill, PA",False,
+2685,"Perryopolis, PA",False,
+2686,"East Uniontown, PA",False,
+2687,"South Connellsville, PA",False,
+2688,"Fairchance, PA",False,
+2689,"Belle Vernon, PA",False,
+2690,"Hopwood, PA",False,
+2691,"Point Marion, PA",False,
+2692,"Salem, IN",False,
+2693,"Bishop, CA",False,
+2694,"Big Pine, CA",False,
+2695,"Rockport, TX",True,4197 Gulf L4150
+2696,"Brevard, NC",False,
+2697,"Pisgah Forest, NC",False,
+2698,"Lake Toxaway, NC",False,
+2699,"Sylva, NC",False,
+2700,"Cullowhee, NC",False,
+2701,"Whittier, NC",False,
+2702,"Sapphire, NC",False,
+2703,"Tuckasegee, NC",False,
+2704,"Glenville, NC",False,
+2705,"Cashiers, NC",False,
+2706,"Cortez, CO",False,
+2707,"Dolores, CO",False,
+2708,"Mancos, CO",False,
+2709,"Morehead City, NC",True,1011 Atlantic L4150
+2710,"Beaufort, NC",True,1011 Atlantic L4150
+2711,"Stella, NC",True,979 Atlantic L4150
+2712,"Newport, NC",True,1011 Atlantic L4150
+2713,"Emerald Isle, NC",True,979 Atlantic L4150
+2714,"Cedar Point, NC",True,979 Atlantic L4150
+2715,"Atlantic Beach, NC",True,1011 Atlantic L4150
+2716,"Harkers Island, NC",True,1011 Atlantic L4150
+2717,"Cape Carteret, NC",True,979 Atlantic L4150
+2718,"Pine Knoll Shores, NC",True,1011 Atlantic L4150
+2719,"Indian Beach, NC",True,1011 Atlantic L4150
+2720,"Wagoner, OK",False,
+2721,"Coweta, OK",False,
+2722,"Porter, OK",False,
+2723,"Okay, OK",False,
+2724,"Ilion, NY",False,
+2725,"Mohawk, NY",False,
+2726,"Russia, NY",False,
+2727,"Dolgeville, NY",False,
+2728,"Litchfield, NY",False,
+2729,"Ocean City, NJ",True,1046 Atlantic L4150
+2730,"Villas, NJ",True,1079 Atlantic L4150
+2731,"Wildwood, NJ",True,1079 Atlantic L4150
+2732,"Cape May Court House, NJ",True,1048 Atlantic L4150
+2733,"North Wildwood, NJ",True,1079 Atlantic L4150
+2734,"Cape May, NJ",True,1079 Atlantic L4150
+2735,"Wildwood Crest, NJ",True,1079 Atlantic L4150
+2736,"Woodbine, NJ",True,1048 Atlantic L4150
+2737,"Erma, NJ",True,1079 Atlantic L4150
+2738,"Rio Grande, NJ",True,1079 Atlantic L4150
+2739,"North Cape May, NJ",True,1079 Atlantic L4150
+2740,"Avalon, NJ",True,1079 Atlantic L4150
+2741,"Sea Isle City, NJ",True,1079 Atlantic L4150
+2742,"West Cape May, NJ",True,1079 Atlantic L4150
+2743,"West Wildwood, NJ",True,1079 Atlantic L4150
+2744,"Stone Harbor, NJ",True,1079 Atlantic L4150
+2745,"Diamond Beach, NJ",True,1079 Atlantic L4150
+2746,"Cobleskill, NY",False,
+2747,"Seward, NY",False,
+2748,"Jefferson, NY",False,
+2749,"Gilboa, NY",False,
+2750,"Summit, NY",False,
+2751,"Madisonville, TN",False,
+2752,"Sweetwater, TN",False,
+2753,"Vonore, TN",False,
+2754,"Globe, AZ",False,
+2755,"Payson, AZ",False,
+2756,"Miami, AZ",False,
+2757,"Pine, AZ",False,
+2758,"Star Valley, AZ",False,
+2759,"Wauchula, FL",False,
+2760,"Bowling Green, FL",False,
+2761,"Zolfo Springs, FL",False,
+2762,"Graham, TX",False,
+2763,"Chipley, FL",False,
+2764,"Delta, CO",False,
+2765,"Cedaredge, CO",False,
+2766,"Hotchkiss, CO",False,
+2767,"Paonia, CO",False,
+2768,"Crawford, CO",False,
+2769,"Orchard City, CO",False,
+2770,"Mineral Wells, TX",False,
+2771,"Jefferson City, TN",False,
+2772,"Dandridge, TN",False,
+2773,"New Market, TN",False,
+2774,"Strawberry Plains, TN",False,
+2775,"White Pine, TN",False,
+2776,"Oneida, NY",False,
+2777,"Sullivan, NY",False,
+2778,"Lenox, NY",False,
+2779,"Eaton, NY",False,
+2780,"Canastota, NY",False,
+2781,"Chittenango, NY",False,
+2782,"Nelson, NY",False,
+2783,"Lincoln, NY",True,3660 Great Lakes L4150
+2784,"Thompson, NY",False,
+2785,"Callicoon, NY",False,
+2786,"Monticello, NY",False,
+2787,"Bethel, NY",False,
+2788,"Rock Hill, NY",False,
+2789,"Fremont, NY",False,
+2790,"Tusten, NY",False,
+2791,"Cochecton, NY",False,
+2792,"South Fallsburg, NY",False,
+2793,"Rockland, NY",False,
+2794,"Livingston Manor, NY",False,
+2795,"Smallwood, NY",False,
+2796,"Woodland Park, CO",False,
+2797,"Florissant, CO",False,
+2798,"Divide, CO",False,
+2799,"Cripple Creek, CO",False,
+2800,"North Branch, MN",False,
+2801,"Chisago City, MN",False,
+2802,"Lindstrom, MN",False,
+2803,"Wyoming, MN",False,
+2804,"Harris, MN",False,
+2805,"Center City, MN",False,
+2806,"Taylors Falls, MN",False,
+2807,"Shafer, MN",False,
+2808,"Stanchfield, MN",False,
+2809,"Rush City, MN",False,
+2810,"Paw Paw, MI",False,
+2811,"Hartford, MI",False,
+2812,"Decatur, MI",False,
+2813,"Gobles, MI",False,
+2814,"Lawrence, MI",False,
+2815,"Bangor, MI",False,
+2816,"Lawton, MI",False,
+2817,"Grand Junction, MI",False,
+2818,"Mattawan, MI",False,
+2819,"Bloomingdale, MI",False,
+2820,"Knox, IN",False,
+2821,"North Judson, IN",False,
+2822,"Franklinton, NC",False,
+2823,"Youngsville, NC",False,
+2824,"Castalia, NC",False,
+2825,"Bunn, NC",False,
+2826,"Louisburg, NC",False,
+2827,"Chestertown, MD",True,1052 Atlantic L4150
+2828,"Millington, MD",False,
+2829,"Galena, MD",True,670 Atlantic L4150
+2830,"Rock Hall, MD",True,992 Atlantic L4150
+2831,"Worton, MD",True,670 Atlantic L4150
+2832,"Reedsburg, WI",False,
+2833,"Baraboo, WI",False,
+2834,"Prairie du Sac, WI",False,
+2835,"Plain, WI",False,
+2836,"Sauk City, WI",False,
+2837,"Merrimac, WI",False,
+2838,"East Wenatchee, WA",False,
+2839,"East Wenatchee Bench, WA",False,
+2840,"Mountain City, TN",False,
+2841,"Butler, TN",False,
+2842,"Trenton, FL",False,
+2843,"Bell, FL",False,
+2844,"Aspen, CO",False,
+2845,"Madison, GA",False,
+2846,"Buckhead, GA",False,
+2847,"Rutledge, GA",False,
+2848,"Ontario, NY",True,3660 Great Lakes L4150
+2849,"Walworth, NY",True,3660 Great Lakes L4150
+2850,"Newark, NY",False,
+2851,"Williamson, NY",True,3660 Great Lakes L4150
+2852,"Marion, NY",True,3660 Great Lakes L4150
+2853,"Rose, NY",True,3660 Great Lakes L4150
+2854,"Huron, NY",True,3660 Great Lakes L4150
+2855,"Clyde, NY",False,
+2856,"Sodus Point, NY",True,3660 Great Lakes L4150
+2857,"Cornelia, GA",False,
+2858,"Clarkesville, GA",False,
+2859,"Alto, GA",False,
+2860,"Mount Airy, GA",False,
+2861,"Demorest, GA",False,
+2862,"Parker, AZ",False,
+2863,"Quartzsite, AZ",False,
+2864,"Guilford, NY",False,
+2865,"North Norwich, NY",False,
+2866,"Pearsall, TX",False,
+2867,"Dilley, TX",False,
+2868,"Dansville, NY",False,
+2869,"York, NY",False,
+2870,"Mount Morris, NY",False,
+2871,"Conesus, NY",False,
+2872,"Springwater, NY",False,
+2873,"Middleville, MI",False,
+2874,"Nashville, MI",False,
+2875,"Delton, MI",False,
+2876,"Hickory Corners, MI",False,
+2877,"Freeport, MI",False,
+2878,"Woodland, MI",False,
+2879,"Dowling, MI",False,
+2880,"Shohola, PA",False,
+2881,"Matamoras, PA",False,
+2882,"Valley Springs, CA",False,
+2883,"San Andreas, CA",False,
+2884,"Copperopolis, CA",False,
+2885,"Murphys, CA",False,
+2886,"Arnold, CA",False,
+2887,"West Point, CA",False,
+2888,"Mokelumne Hill, CA",False,
+2889,"Williston, FL",False,
+2890,"Bronson, FL",False,
+2891,"Morriston, FL",False,
+2892,"Inglis, FL",True,3775 Gulf L4150
+2893,"Chiefland, FL",False,
+2894,"Manattee Road, FL",False,
+2895,"Cedar Key, FL",True,3895 Gulf L4150
+2896,"Purvis, MS",False,
+2897,"Sumrall, MS",False,
+2898,"Harrison, WI",False,
+2899,"Brothertown, WI",False,
+2900,"Sherwood, WI",False,
+2901,"Lehighton, PA",False,
+2902,"Palmerton, PA",False,
+2903,"Jim Thorpe, PA",False,
+2904,"Lansford, PA",False,
+2905,"Nesquehoning, PA",False,
+2906,"Summit Hill, PA",False,
+2907,"Weatherly, PA",False,
+2908,"Burnet, TX",False,
+2909,"Marble Falls, TX",False,
+2910,"Meadowlakes, TX",False,
+2911,"Chippewa Falls, WI",False,
+2912,"Bloomer, WI",False,
+2913,"Lake Hallie, WI",False,
+2914,"Stanley, WI",False,
+2915,"New Auburn, WI",False,
+2916,"Holcombe, WI",False,
+2917,"Lake Wissota, WI",False,
+2918,"Tell City, IN",False,
+2919,"La Grande, OR",False,
+2920,"Elgin, OR",False,
+2921,"Union, OR",False,
+2922,"Tillamook, OR",True,3181 Pacific L4150
+2923,"Cloverdale, OR",True,3188 Pacific L4150
+2924,"Rockaway Beach, OR",True,1994 Pacific L4150
+2925,"Bay City, OR",True,3181 Pacific L4150
+2926,"Neskowin, OR",True,3188 Pacific L4150
+2927,"Nehalem, OR",True,1994 Pacific L4150
+2928,"Lakeport, CA",False,
+2929,"Kelseyville, CA",False,
+2930,"Clearlake, CA",False,
+2931,"Hidden Valley Lake, CA",False,
+2932,"Lucerne, CA",False,
+2933,"Clearlake Oaks, CA",False,
+2934,"Nice, CA",False,
+2935,"Middletown, CA",False,
+2936,"New Baltimore, NY",False,
+2937,"Durham, NY",False,
+2938,"Lexington, NY",False,
+2939,"Palenville, NY",False,
+2940,"Ashland, NY",False,
+2941,"Jewett, NY",False,
+2942,"Fayette, NY",False,
+2943,"Romulus, NY",False,
+2944,"Covert, NY",False,
+2945,"Crockett, TX",False,
+2946,"Edwardsburg, MI",False,
+2947,"Cassopolis, MI",False,
+2948,"Marcellus, MI",False,
+2949,"Henderson, TX",False,
+2950,"Overton, TX",False,
+2951,"Rocky Point, NC",False,
+2952,"Surf City, NC",True,979 Atlantic L4150
+2953,"Burgaw, NC",False,
+2954,"Topsail Beach, NC",True,979 Atlantic L4150
+2955,"Tahlequah, OK",False,
+2956,"Cookson, OK",False,
+2957,"Clyde, NC",False,
+2958,"Lake Junaluska, NC",False,
+2959,"Crystal City, TX",False,
+2960,"Shallotte, NC",True,1021 Atlantic L4150
+2961,"Ash, NC",False,
+2962,"Oak Island, NC",True,1021 Atlantic L4150
+2963,"Winnabow, NC",False,
+2964,"Ocean Isle Beach, NC",True,1021 Atlantic L4150
+2965,"Sunset Beach, NC",True,1021 Atlantic L4150
+2966,"Leland, NC",False,
+2967,"Boiling Spring Lakes, NC",True,1013 Atlantic L4150
+2968,"Saint James, NC",True,1021 Atlantic L4150
+2969,"Navassa, NC",False,
+2970,"Southport, NC",True,1013 Atlantic L4150
+2971,"Carolina Shores, NC",True,1021 Atlantic L4150
+2972,"Holden Beach, NC",True,1021 Atlantic L4150
+2973,"Caswell Beach, NC",True,1013 Atlantic L4150
+2974,"Belville, NC",True,1013 Atlantic L4150
+2975,"Calabash, NC",True,1021 Atlantic L4150
+2976,"Bald Head Island, NC",True,1013 Atlantic L4150
+2977,"Brookville, IN",False,
+2978,"Bath, ME",True,216 Atlantic L4150
+2979,"Bowdoinham, ME",False,
+2980,"Phippsburg, ME",True,441 Atlantic L4150
+2981,"Basalt, CO",False,
+2982,"Gypsum, CO",False,
+2983,"Edwards, CO",False,
+2984,"Vail, CO",False,
+2985,"Avon, CO",False,
+2986,"Eagle, CO",False,
+2987,"Carrollton, OH",False,
+2988,"Sherrodsville, OH",False,
+2989,"Princess Anne, MD",True,972 Atlantic L4150
+2990,"Eden, MD",False,
+2991,"Camden, TN",False,
+2992,"Big Sandy, TN",False,
+2993,"Holladay, TN",False,
+2994,"Winchester, TN",False,
+2995,"Sewanee, TN",False,
+2996,"Decherd, TN",False,
+2997,"Huntland, TN",False,
+2998,"Estill Springs, TN",False,
+2999,"Belvidere, TN",False,
+3000,"Cowan, TN",False,
+3001,"Greensburg, IN",False,
+3002,"Saint Paul, IN",False,
+3003,"Westport, IN",False,
+3004,"Mexia, TX",False,
+3005,"Groesbeck, TX",False,
+3006,"Bushnell, FL",False,
+3007,"Wildwood, FL",False,
+3008,"The Villages, FL",False,
+3009,"Lake Panasoffkee, FL",False,
+3010,"Whitney, TX",False,
+3011,"Hillsboro, TX",False,
+3012,"Boerne, TX",False,
+3013,"Hohenwald, TN",False,
+3014,"Kewaunee, WI",True,3711 Great Lakes L4150
+3015,"Casco, WI",True,3698 Great Lakes L4150
+3016,"Luxemburg, WI",True,3698 Great Lakes L4150
+3017,"Port Clinton, OH",True,3742 Great Lakes L4150
+3018,"Genoa, OH",False,
+3019,"Elmore, OH",False,
+3020,"Oak Harbor, OH",True,3688 Great Lakes L4150
+3021,"Marblehead, OH",True,3742 Great Lakes L4150
+3022,"Cullman, AL",False,
+3023,"Holly Pond, AL",False,
+3024,"Crane Hill, AL",False,
+3025,"Bremen, AL",False,
+3026,"Logan, AL",False,
+3027,"Baileyton, AL",False,
+3028,"Good Hope, AL",False,
+3029,"Port Townsend, WA",True,2029 Pacific L4150
+3030,"Port Ludlow, WA",True,2029 Pacific L4150
+3031,"Port Hadlock, WA",True,2029 Pacific L4150
+3032,"Quilcene, WA",False,
+3033,"Brinnon, WA",False,
+3034,"Nordland, WA",True,3240 Pacific L4150
+3035,"Sheldon, NY",False,
+3036,"Arcade, NY",False,
+3037,"Mariposa, CA",False,
+3038,"Washington, IN",False,
+3039,"Odon, IN",False,
+3040,"Linton, IN",False,
+3041,"Bloomfield, IN",False,
+3042,"Worthington, IN",False,
+3043,"Lampasas, TX",False,
+3044,"Kempner, TX",False,
+3045,"West Livingston, TX",False,
+3046,"Livingston, TX",False,
+3047,"Hudson Falls, NY",False,
+3048,"Kingsbury, NY",False,
+3049,"White Creek, NY",False,
+3050,"Preston, ID",False,
+3051,"Moore Haven, FL",False,
+3052,"Bolivar, TN",False,
+3053,"Georgetown, OH",False,
+3054,"Mount Orab, OH",False,
+3055,"Sardinia, OH",False,
+3056,"Hamersville, OH",False,
+3057,"Santa Rosa Beach, FL",True,4124 Gulf L4150
+3058,"Miramar Beach, FL",True,4212 Gulf L4150
+3059,"Freeport, FL",False,
+3060,"Monticello, GA",False,
+3061,"Newborn, GA",False,
+3062,"Medina, NY",False,
+3063,"Gaines, NY",True,3656 Great Lakes L4150
+3064,"Murray, NY",True,3656 Great Lakes L4150
+3065,"Ridgeway, NY",True,3656 Great Lakes L4150
+3066,"Carlton, NY",True,3656 Great Lakes L4150
+3067,"Kendall, NY",True,3656 Great Lakes L4150
+3068,"Holley, NY",True,3656 Great Lakes L4150
+3069,"Hudson, NY",False,
+3070,"Livingston, NY",False,
+3071,"Stuyvesant, NY",False,
+3072,"Clermont, NY",False,
+3073,"Hillsdale, NY",False,
+3074,"Stockport, NY",False,
+3075,"Canaan, NY",False,
+3076,"Austerlitz, NY",False,
+3077,"Copake, NY",False,
+3078,"Lorenz Park, NY",False,
+3079,"Taghkanic, NY",False,
+3080,"Valatie, NY",False,
+3081,"Copake Lake, NY",False,
+3082,"Loogootee, IN",False,
+3083,"Shoals, IN",False,
+3084,"Plymouth, NC",False,
+3085,"Creswell, NC",False,
+3086,"Port Saint Joe, FL",True,4094 Gulf L4150
+3087,"Wewahitchka, FL",False,
+3088,"Breckenridge, TX",False,
+3089,"Polson, MT",False,
+3090,"Ronan, MT",False,
+3091,"Hiawassee, GA",False,
+3092,"Young Harris, GA",False,
+3093,"Lincoln City, OR",True,3188 Pacific L4150
+3094,"Newport, OR",True,2816 Pacific L4150
+3095,"Toledo, OR",True,2816 Pacific L4150
+3096,"Otis, OR",True,3188 Pacific L4150
+3097,"Depoe Bay, OR",True,2817 Pacific L4150
+3098,"Seal Rock, OR",True,2016 Pacific L4150
+3099,"Waldport, OR",True,2016 Pacific L4150
+3100,"Yachats, OR",True,2016 Pacific L4150
+3101,"South Beach, OR",True,2816 Pacific L4150
+3102,"Paoli, IN",False,
+3103,"Orleans, IN",False,
+3104,"Winamac, IN",False,
+3105,"Breese, IL",False,
+3106,"New Baden, IL",False,
+3107,"Carlyle, IL",False,
+3108,"Aviston, IL",False,
+3109,"Germantown, IL",False,
+3110,"Bartelso, IL",False,
+3111,"Trenton, IL",False,
+3112,"Hart, MI",True,3674 Great Lakes L4150
+3113,"Shelby, MI",True,3450 Great Lakes L4150
+3114,"Hesperia, MI",False,
+3115,"Pentwater, MI",True,3674 Great Lakes L4150
+3116,"Mears, MI",True,3674 Great Lakes L4150
+3117,"Rothbury, MI",True,3450 Great Lakes L4150
+3118,"Rockport, IN",False,
+3119,"Richland, IN",False,
+3120,"Grandview, IN",False,
+3121,"Santa Claus, IN",False,
+3122,"Chrisney, IN",False,
+3123,"Dale, IN",False,
+3124,"Coldspring, TX",False,
+3125,"Yreka, CA",False,
+3126,"Weed, CA",False,
+3127,"Mount Shasta, CA",False,
+3128,"Dunsmuir, CA",False,
+3129,"McCloud, CA",False,
+3130,"Hornbrook, CA",False,
+3131,"Dillon, MT",False,
+3132,"Friday Harbor, WA",True,1804 Pacific L4150
+3133,"Eastsound, WA",True,1736 Pacific L4150
+3134,"Olga, WA",True,1824 Pacific L4150
+3135,"Buena Vista, CO",False,
+3136,"Salida, CO",False,
+3137,"New Johnsonville, TN",False,
+3138,"Coleman, TX",False,
+3139,"Livingston, TN",False,
+3140,"Hilham, TN",False,
+3141,"Monroe, TN",False,
+3142,"Rickman, TN",False,
+3143,"Jacksboro, TX",False,
+3144,"Wahoo, NE",False,
+3145,"Ashland, NE",False,
+3146,"Yutan, NE",False,
+3147,"Crown Point, NY",False,
+3148,"Willsboro, NY",False,
+3149,"Lake Placid, NY",False,
+3150,"Keene, NY",False,
+3151,"Jay, NY",False,
+3152,"Comanche, TX",False,
+3153,"Prosperity, SC",False,
+3154,"Chappells, SC",False,
+3155,"Waynesboro, TN",False,
+3156,"Iron City, TN",False,
+3157,"Clifton, TN",False,
+3158,"Clyde, TX",False,
+3159,"Hurlock, MD",False,
+3160,"East New Market, MD",False,
+3161,"Ballinger, TX",False,
+3162,"Winters, TX",False,
+3163,"Maynardville, TN",False,
+3164,"Plainview, TN",False,
+3165,"Cisco, TX",False,
+3166,"Eastland, TX",False,
+3167,"Gun Barrel City, TX",False,
+3168,"Tool, TX",False,
+3169,"Payne Springs, TX",False,
+3170,"Trinidad, TX",False,
+3171,"Quitman, TX",False,
+3172,"Hawkins, TX",False,
+3173,"Pikeville, TN",False,
+3174,"Morgantown, IN",False,
+3175,"Decaturville, TN",False,
+3176,"Parsons, TN",False,
+3177,"Castroville, TX",False,
+3178,"Mico, TX",False,
+3179,"Attica, IN",False,
+3180,"Veedersburg, IN",False,
+3181,"Covington, IN",False,
+3182,"Waskom, TX",False,
+3183,"Diana, TX",False,
+3184,"Edgartown, MA",True,885 Atlantic L4150
+3185,"Vineyard Haven, MA",True,675 Atlantic L4150
+3186,"Wartburg, TN",False,
+3187,"Lineville, AL",False,
+3188,"Ashland, AL",False,
+3189,"Jackson, CA",False,
+3190,"Pine Grove, CA",False,
+3191,"Pioneer, CA",False,
+3192,"Ione, CA",False,
+3193,"Sutter Creek, CA",False,
+3194,"Volcano, CA",False,
+3195,"Bailey, CO",False,
+3196,"Lake George, CO",False,
+3197,"Guffey, CO",False,
+3198,"Jefferson, CO",False,
+3199,"Hartsel, CO",False,
+3200,"Hearne, TX",False,
+3201,"Franklin, TX",False,
+3202,"Long Beach, WA",True,2020 Pacific L4150
+3203,"Watson, NY",False,
+3204,"New Bremen, NY",False,
+3205,"Benton, NY",False,
+3206,"Milo Mills, NY",False,
+3207,"Penn Yan, NY",False,
+3208,"Middlesex, NY",False,
+3209,"Starkey, NY",False,
+3210,"Glen Rose, TX",False,
+3211,"Dover, TN",False,
+3212,"Indian Mound, TN",False,
+3213,"Big Rock, TN",False,
+3214,"Tularosa, NM",False,
+3215,"Hico, TX",False,
+3216,"Haskell, TX",False,
+3217,"Rochester, IN",False,
+3218,"Akron, IN",False,
+3219,"Kewanna, IN",False,
+3220,"Richwood, WV",False,
+3221,"Mount Lookout, WV",False,
+3222,"Crooksville, OH",False,
+3223,"Poland, IN",False,
+3224,"Gosport, IN",False,
+3225,"Rushford, NY",False,
+3226,"Scio, NY",False,
+3227,"Wellsville, NY",False,
+3228,"Byesville, OH",False,
+3229,"Old Town, FL",False,
+3230,"Cross City, FL",False,
+3231,"Crested Butte, CO",False,
+3232,"Gainesboro, TN",False,
+3233,"Whitleyville, TN",False,
+3234,"Bloomington Springs, TN",False,
+3235,"Spring Valley, MN",False,
+3236,"Vevay, IN",False,
+3237,"Decatur, TN",False,
+3238,"Birchwood, TN",False,
+3239,"Dix, NY",False,
+3240,"Hector, NY",False,
+3241,"Tyrone, NY",False,
+3242,"Celina, TN",False,
+3243,"Moss, TN",False,
+3244,"Brady, TX",False,
+3245,"Grantsville, MD",False,
+3246,"Friendsville, MD",False,
+3247,"Accident, MD",False,
+3248,"Mountain Lake Park, MD",False,
+3249,"Oakland, MD",False,
+3250,"Kuttawa, KY",False,
+3251,"Marengo, IN",False,
+3252,"Milltown, IN",False,
+3253,"Eckerty, IN",False,
+3254,"English, IN",False,
+3255,"Westwood, CA",False,
+3256,"Litchfield, MI",False,
+3257,"Erin, TN",False,
+3258,"Tennessee Ridge, TN",False,
+3259,"Stewart, TN",False,
+3260,"Conway, NC",False,
+3261,"Henrico, NC",False,
+3262,"Brookston, IN",False,
+3263,"Chalmers, IN",False,
+3264,"North Vernon, IN",False,
+3265,"Butlerville, IN",False,
+3266,"Commiskey, IN",False,
+3267,"Scipio, IN",False,
+3268,"Sequatchie, TN",False,
+3269,"South Pittsburg, TN",False,
+3270,"Jasper, TN",False,
+3271,"Whitwell, TN",False,
+3272,"Monteagle, TN",False,
+3273,"Kimball, TN",False,
+3274,"Powells Crossroads, TN",False,
+3275,"Wildwood, GA",False,
+3276,"Oldfort, TN",False,
+3277,"Delano, TN",False,
+3278,"Reliance, TN",False,
+3279,"Benton, TN",False,
+3280,"Turtletown, TN",False,
+3281,"Copperhill, TN",False,
+3282,"Stamps, AR",False,
+3283,"Apalachicola, FL",True,4054 Gulf L4150
+3284,"Eastpoint, FL",True,4054 Gulf L4150
+3285,"Carrabelle, FL",True,4052 Gulf L4150
+3286,"Moyie Springs, ID",False,
+3287,"Highlands, NC",False,
+3288,"Blaine, TN",False,
+3289,"Bean Station, TN",False,
+3290,"Upton, KY",False,
+3291,"Henrietta, TX",False,
+3292,"Palm Valley, TX",False,
+3293,"Laguna Vista, TX",True,4206 Gulf L4150
+3294,"Rancho Viejo, TX",False,
+3295,"South Padre Island, TX",True,4206 Gulf L4150
+3296,"Laurium, MI",True,3643 Great Lakes L4150
+3297,"Lake Kiowa, TX",False,
+3298,"Clarkrange, TN",False,
+3299,"Allardt, TN",False,
+3300,"Indian Lake, NY",False,
+3301,"Long Lake, NY",False,
+3302,"Hortense, GA",False,
+3303,"Florence, CO",False,
+3304,"Birnamwood, WI",False,
+3305,"Hayfork, CA",False,
+3306,"Lewiston, CA",False,
+3307,"Saint Maries, ID",False,
+3308,"Twisp, WA",False,
+3309,"Winthrop, WA",False,
+3310,"Pateros, WA",False,
+3311,"Clifton, AZ",False,
+3312,"Underwood, WA",False,
+3313,"Stevenson, WA",False,
+3314,"Ashby, MN",False,
+3315,"Pelham, TN",False,
+3316,"Oakes, ND",False,
+3317,"June Lake, CA",False,
+3318,"Islesboro, ME",True,1086 Atlantic L4150
+3319,"Sierra City, CA",False,
+3320,"Victor, ID",False,
+3321,"Rome City, IN",False,
+3322,"Georgetown, CO",False,
+3323,"Idaho Springs, CO",False,
+3324,"Jenkinsburg, GA",False,
+3325,"Smith River, CA",True,2662 Pacific L4150
